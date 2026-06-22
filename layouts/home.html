@@ -1,5 +1,5 @@
 {{ define "main" }}
-<h1>Algebraic Geometry Seminar<br><span class="subtitle">@ Utrecht University</span></h1>
+<h1>Algebraic Geometry Seminar<br><span class="subtitle">@ <img src="{{ "uu-logo.svg" | relURL }}" alt="Utrecht University" class="uu-logo"></span></h1>
 
 <div class="intro">
   {{ .Content }}
@@ -45,10 +45,11 @@
 {{ $lastYear := "" }}
 {{ range . }}
   {{ $year := .year }}
-  {{ if ne $year $lastYear }}
+  {{/* named blocks get a shared <h3> per year; nameless archives carry their own toggle */}}
+  {{ if and .block (ne $year $lastYear) }}
 <h3 class="year">{{ $year }}</h3>
-    {{ $lastYear = $year }}
   {{ end }}
+  {{ $lastYear = $year }}
   {{ partial "block.html" (dict "block" . "hideYear" true) }}
 {{ end }}
 {{ end }}

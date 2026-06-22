@@ -29,6 +29,12 @@ h1 .subtitle {
   color: var(--muted);
 }
 
+.uu-logo {
+  height: 2.4em;
+  vertical-align: middle;
+  margin-left: 0.15em;
+}
+
 h2 {
   font-size: 1.25rem;
   color: var(--accent);
@@ -38,11 +44,16 @@ h2 {
   margin-bottom: 0.6rem;
 }
 
-h3.year {
+h3.year,
+details.year-archive > summary {
   font-size: 1.05rem;
   color: var(--muted);
   font-weight: bold;
   margin: 1rem 0 0.3rem;
+}
+
+details.year-archive > summary {
+  cursor: pointer;
 }
 
 a {

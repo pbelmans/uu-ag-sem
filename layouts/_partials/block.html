@@ -12,6 +12,9 @@
   {{ partial "talks.html" $b }}
 </details>
 {{ else }}
-{{/* archive years without a block structure: list the talks directly, no header */}}
-{{ partial "talks.html" $b }}
+{{/* archive years without a block structure: collapsed by default, the year is the toggle */}}
+<details class="year-archive">
+  <summary>{{ $b.year }}</summary>
+  {{ partial "talks.html" $b }}
+</details>
 {{ end }}

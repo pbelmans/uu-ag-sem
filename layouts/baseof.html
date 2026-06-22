@@ -4,6 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.Title }}</title>
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+  <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
   {{ with resources.Get "css/style.css" | minify }}
   <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{ end }}
