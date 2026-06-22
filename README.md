@@ -50,21 +50,17 @@ talks: []
 hugo server
 ```
 
-and open <http://localhost:1313>.
+Hugo prints the local address to open (e.g. `http://localhost:<port>`); the
+exact port can vary between runs.
 
 ## Deploying
 
-**GitHub Pages**: push to `main`; `.github/workflows/deploy.yml` builds and
-publishes the site (enable Pages with source "GitHub Actions" in the repository
-settings once). A weekly scheduled rebuild keeps the current/past grouping
-fresh between pushes.
-
-**University web space**: build with the final URL and upload `public/`:
-
-```sh
-hugo --minify --baseURL "https://webspace.science.uu.nl/~user/agseminar/"
-rsync -av public/ user@host:path/to/webspace/
-```
+The site is published to GitHub Pages and served at <https://uu-ag.ncag.info>.
+Push to `main` and `.github/workflows/deploy.yml` builds and publishes
+automatically (Pages must be enabled once with source "GitHub Actions"). The
+custom domain is set by `static/CNAME` and the production URL by `baseURL` in
+`hugo.toml`. A weekly scheduled rebuild keeps the current/upcoming/previous
+grouping fresh between pushes.
 
 ## Data provenance
 
