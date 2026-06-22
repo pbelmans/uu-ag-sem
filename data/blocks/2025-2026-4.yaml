@@ -1,0 +1,78 @@
+block: "Block IV"
+year: "2025–2026"
+start: 2026-04-20
+end: 2026-07-21
+schedule: "Tuesdays from 13.30 to 14.30 CET"
+room: "HFG 7.07"
+talks:
+  - date: 2026-04-23
+    time: "15.30"
+    speaker: "Philip Engel"
+    affiliation: "University of Illinois Chicago"
+    title: "Boundedness of Lagrangian fibrations"
+    abstract: >-
+      I will discuss recent work showing that deformation classes of symplectic varieties
+      admitting a Lagrangian fibration, and of fixed dimension, are finite in number.
+      Conditional on the generalized semiampleness conjecture, we deduce a bound on the number
+      of deformation classes of hyperkahler varieties in a fixed dimension, with second Betti
+      number at least 5. This is joint work with Filipazzi, Greer, Mauri, and Svaldi.
+    room: "BBG 1.61"
+  - date: 2026-04-28
+    speaker: "Yajnaseni Datta"
+    affiliation: "Leiden University"
+    title: "Crepant resolution of threefold singularities"
+    abstract: >-
+      Terminal threefold singularities do not always admit crepant resolution (even
+      locally!). If we go categorical, such resolutions, once carefully defined, are
+      expected to exist. In this talk, I will show an explicit construction for some of
+      the simplest singularities, namely, $A_n$, i.e. the ones that are locally given by
+      $x^2+y^2+z^2+w^{n+1}$. When $n$ is odd, the resolution has Calabi-Yau kernel
+      category. This is a joint work in progress with Fietz and Shinder.
+  - date: 2026-05-05
+    note: "No talk"
+  - date: 2026-05-12
+    note: "No talk"
+  - date: 2026-05-19
+    speaker: "Manoy Trip"
+    affiliation: "University of Groningen"
+    title: "An Inverse Galois Problem for minimal del Pezzo surfaces of degree 1 with conic bundles over finite fields"
+    abstract: >-
+      We study del Pezzo surfaces of degree 1 over finite fields, which are a class of
+      rational surfaces. These surfaces can be divided into 112 types, based on the Galois
+      action on the surface. We focus on the 7 types corresponding to surfaces which are both
+      minimal and have a conic bundle structure. These types are determined by the
+      configuration of the singular fibers of the conic bundle structure. We discuss an answer
+      to the following question: for which values of $q$ can each of these configurations
+      exist on a del Pezzo surface with conic bundle defined over $\mathbb{F}_q$?
+  - date: 2026-05-26
+    title: "Randomness and symmetry of polynomials"
+    note: "No talk (David Hokken's Ph.D. Defense)"
+  - date: 2026-06-02
+    speaker: "Sièna van Schaick"
+    affiliation: "Radboud University"
+    title: "Points of low degree on curves over function fields"
+    abstract: >-
+      The degree of a closed point on a curve is the degree of the field extension given by
+      the residue field of the point extending the ground field. Theorems by Faltings,
+      Harris-Silverman, Abramovich-Harris and Kadets-Vogt geometrically classify curves over
+      number fields having a potentially dense set of points of degree 1, 2, 3, 4 and 5. I
+      will explain how to generalize these results to curves over function fields of
+      characteristic zero.
+  - date: 2026-06-09
+    speaker: "Arkadij Bojko"
+    affiliation: "SIMIS"
+    title: "$T$-deformations of vertex algebras and tautological stable pair wall-crossing"
+    abstract: >-
+      There are two natural ways to deform Joyce's construction of vertex algebras. One is to
+      work equivariantly, and the other is to include tautological insertions. I introduce
+      $T$-deformed vertex algebras that unify these two refinements. For the purpose of
+      wall-crossing, they must be treated differently because the associated Lie algebras use
+      different expansions. I will explain this behavior explicitly by applying it to
+      2-dimensional stable pair wall-crossing, focusing on conjectures of Bae-Kool-Park.
+  - date: 2026-06-16
+    speaker: "Ander Arriola Corpion"
+    affiliation: "University of Groningen"
+  - date: 2026-07-21
+    speaker: "Henry Liu"
+    affiliation: "IPMU"
+    note: "Bonus talk"

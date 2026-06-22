@@ -1,0 +1,135 @@
+block: "Block I"
+year: "2023–2024"
+start: 2023-09-05
+end: 2023-11-07
+talks:
+  - date: 2023-09-05
+    time: "11:15-12:15"
+    speaker: "Nicoló Piazzalunga"
+    affiliation: "Rutgers"
+    title: "4G Networks"
+    abstract: >-
+      I'll introduce the equivariant $K$-theoretic Donaldson-Thomas theory for toric
+      Calabi-Yau fourfolds, and construct its four-valent vertex with generic plane partition
+      asymptotics. String-theoretically, this is the count of BPS states of a system of
+      D0-D2-D4-D6-D8-branes in the presence of a large Neveu-Schwarz $B$-field. The talk is
+      based on 2306.12995, 2306.12405 and ongoing work.
+    room: "BBG 109"
+  - date: 2023-09-12
+    time: "11:15-12:15"
+    speaker: "Carolina Tamborini"
+    affiliation: "Utrecht"
+    title: "Hodge theory and projective structures on compact Riemann surfaces"
+    abstract: >-
+      A projective structure on a compact Riemann surface is an equivalence class of
+      projective atlases, i.e. an equivalence class of coverings by holomorphic coordinate
+      charts such that the transition functions are all Moebius transformations. Any compact
+      Riemann surface admits two canonical projective structures: one coming from
+      uniformization's theorem, and one from Hodge theory. These yield two (different)
+      families of projective structures over the moduli space $M_g$ of compact Riemann
+      surfaces.
+      We wish to compare them and give a characterization of the Hodge theoretic family.
+    room: "HFG 610"
+  - date: 2023-09-19
+    time: "11:15-12:15"
+    speaker: "Dusan Dragutinovic"
+    affiliation: "Utrecht"
+    title: "Ekedahl-Oort types of stable curves"
+    abstract: >-
+      In this talk, I will present some invariants of curves in positive characteristic $p$,
+      such as the $p$-rank, the $a$-number, or the Ekedahl-Oort type, and discuss intrinsic
+      ways
+      to define them. The main focus will be on Moonen's definition of Ekedahl-Oort types of
+      smooth curves in terms of Hasse-Witt triples. I will show that we can extend this
+      definition to all stable curves. The description we obtain in this manner enables us to
+      compute the dimensions of certain loci of curves. Finally, I will mention some new
+      examples in characteristics $p = 2$ and $p = 3$.
+    room: "HFG 610"
+    note: "This week also: Intercity Number Theory Seminar in Utrecht"
+  - date: 2023-09-28
+    time: "9:15-10:15"
+    speaker: "Annette Huber-Klawitter"
+    affiliation: "Freiburg"
+    title: "Periods and o-minimality"
+    abstract: >-
+      Periods are numbers obtained by integrating algebraic differential forms over
+      semi-algebraic domains. The set contains interesting numbers like logarithms of
+      algebraic numbers or the values of the Riemann zeta function at integral points. The
+      linear or algebraic relations between them is a classical topic of transcendence theory.
+      Grothendieck gave a more conceptual interpretation in terms of the pairing between
+      singular and algebraic de Rham cohomology of algebraic varieties over the rationals.
+      This leads to the (wide open) Period Conjecture predicting all relations between
+      periods. Kontsevich and Zagier suggested to extend the theory to the so called
+      exponential periods appearing in the theory of irregular connections. The conceptual
+      part of the story has been worked out by Hien and Fresan-Jossen. In joint work with
+      Johan Commelin an Philipp Habegger we show that all exponential periods can be written
+      as volumes in a certain o-minimal structure. This hints at a deeper connection between
+      periods and o-minimiality.
+    room: "BBG - 223"
+  - date: 2023-10-10
+    time: "11:15-12:15"
+    speaker: "Shivang Jindal"
+    affiliation: "Edinburgh"
+    title: "2d Cohomological Hall Algebras for Cyclic Quivers and and Integral form of Affine Yangian."
+    abstract: >-
+      In 2012, Schiffmann and Vasserot considered a Hall algebra type construction on the
+      cohomology of moduli of sheaves supported on points on a plane and used it to prove AGT
+      conjecture. However due to the mysterious nature of the moduli of representations of
+      pre-projective algebra, these algebras are very hard to study and are often highly non
+      trivial. They are conjectured to be the same as Maulik-Okounkov Yangians which has
+      further applications in Quantum Cohomology. In this talk, my goal is to give an
+      introduction to these algebras and explain how one can use tools from Cohomological DT
+      theory to study these algebras. In particular, I will explain how for the case of cyclic
+      quiver, this algebra turn out to be a half of the universal enveloping algebra of the
+      Lie algebra of matrix differential operators on torus, while its deformation turn out be
+      an explicit integral form of Affine Yangian of $\mathfrak{gl}(n)$.
+    room: "HFG 409"
+  - date: 2023-10-24
+    time: "11:15-12:15"
+    speaker: "Denis Nesterov"
+    affiliation: "Vienna"
+    title: "Unramified Gromov-Witten and Gopakumar-Vafa invariants"
+    abstract: >-
+      Kim, Kresch and Oh defined moduli spaces of unramified stable maps, which are natural
+      generalisations of (compactified) Hurwitz spaces for a target of an arbitrary dimension.
+      Just like Hurwitz spaces, which are smooth irreducible varieties after normalisation,
+      moduli spaces of unramified stable maps are 'better' compactifications than moduli
+      spaces of stable maps. Pandharipande conjectured that unramified Gromov-Witten
+      invariants of a projective threefold are equal to Gopakumar-Vafa (BPS) invariants in the
+      case of Fano classes (classes that intersect negatively with the canonical class) and
+      primitive Calabi-Yau classes (trivial intersection). After a gentle introduction to
+      unramified Gromov-Witten theory, we will discuss a work in progress which aims to prove
+      the conjecture. This provides a geometric construction of Gopakumar-Vafa invariants in
+      these cases. The proof is based on a certain wall-crossing technique.
+    room: "HFG 409"
+  - date: 2023-10-31
+    time: "11:15-12:15"
+    speaker: "Caleb Springer"
+    affiliation: "University College London"
+    title: "Doubly isogenous genus-2 curves over finite fields"
+    abstract: >-
+      Our main question is the following: Can you tell the difference between two curves
+      defined over a finite field if you only know their zeta functions and the zeta functions
+      of certain covers? This distinguishing problem is partially motivated by a possible
+      strategy for developing a deterministic polynomial-time algorithm for factoring
+      polynomials over finite fields due to Kayal and Poonen. Ultimately, this talk is
+      concerned with cases where the distinguishing problem is not solvable due to the
+      existence of "very similar" curves. Specifically, we study a family of genus-2 curves
+      with a dihedral action and show that so-called doubly isogenous pairs of curves are
+      surprisingly common in this family. We also provide an explanation of this phenomena
+      which corrects the naive heuristics. This is joint work with Arul, Booher, Groen, Howe,
+      Li, Matei and Pries.
+    room: "BBG 161"
+  - date: 2023-11-07
+    time: "11:15-12:15"
+    speaker: "Gerard van der Geer"
+    affiliation: "UvA-Beijing-Luxembourg"
+    title: "The cycle class of the supersingular locus"
+    abstract: >-
+      Deuring gave a formula for the number of supersingular elliptic curves in
+      characteristic $p$. We generalize this to a formula for the cycle class of the
+      supersingular locus in the moduli space of principally polarized abelian varieties of
+      given dimension $g$. The formula determines the class up to a multiple and shows that
+      it lies in the tautological ring. We also give the multiple for $g$ up to $4$. This is
+      joint work with S. Harashita.
+    room: "BBG 017"

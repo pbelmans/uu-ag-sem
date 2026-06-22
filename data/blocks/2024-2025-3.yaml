@@ -1,0 +1,141 @@
+block: "Block III"
+year: "2024–2025"
+start: 2025-02-03
+end: 2025-04-18
+schedule: "Tuesdays from 1.30 pm to 2.30 pm CET"
+room: "Minnaert 0.14"
+talks:
+  - date: 2025-02-04
+    speaker: "Hyeonjun Park"
+    affiliation: "Korea Institute for Advanced Study"
+    title: "Shifted symplectic pushforwards"
+    abstract: >-
+      Fundamental examples of symplectic varieties are moduli spaces of sheaves on K3
+      surfaces. This can be extended to higher-dimensional Calabi-Yau varieties through the
+      concept of shifted symplectic structures in derived algebraic geometry. In this talk, I
+      will introduce a general operation of producing shifted symplectic stacks from given
+      ones. Basic examples like cotangent bundles, critical loci, and Hamiltonian reduction
+      can be understood as special cases of this operation. Moreover, this unification enables
+      us to provide an etale local structure theorem for shifted symplectic Artin stacks. I
+      will briefly explain some applications to Donaldson-Thomas theory of Calabi-Yau 3-folds
+      and 4-folds.
+    room: "Minnaert 0.09"
+  - date: 2025-02-11
+    note: "TBA"
+  - date: 2025-02-18
+    speaker: "Sun Woo Park"
+    affiliation: "MPIM Bonn"
+    title: "Rank growth of elliptic curves over $S_3$ extensions with fixed quadratic resolvents"
+    abstract: >-
+      In joint work with Daniel Keliher, we study the probability with which an elliptic
+      curve, subject to some technical conditions, gains rank upon base extension to families
+      of $S_3$ cubic extensions with a fixed quadratic resolvent field, all three types of
+      fields of which are subject to some mild technical conditions. We determine the
+      distribution (under a non-standard ordering) of Selmer ranks of an auxiliary abelian
+      variety associated to the elliptic curve and cubic extensions by adapting previous
+      studies by Klagsbrun, Mazur, and Rubin. One corollary of this distribution is that the
+      elliptic curve gains rank by at most one upon base change to cubic extensions with
+      probability at least 31.95%.
+  - date: 2025-02-25
+    speaker: "Jan Stienstra"
+    affiliation: "Utrecht University"
+    title: "On the transcendental part of K3 surfaces associated with 3D Fano polytopes"
+    abstract: >-
+      Up to affine transformations over $\mathbb{Z}$ there are 18 different 3D Fano
+      polytopes. The set of vertices of such a polytope is a subset $V$ of $\mathbb{Z}^3$
+      which can be used as exponents for a Laurent polynomial. The surface in $\mathbb{P}^3$
+      defined by the homogenization of such a Laurent polynomial is a quartic K3 surface.
+      Varying the coefficients of the Laurent polynomial yields a family of K3 surfaces. The
+      aim of the talk is to demonstrate how the Gelfand-Kapranov-Zelevinsky hypergeometric
+      system associated with $V$ and results on Mirror Symmetry for lattice polarized K3
+      surfaces lead to simple elegant expressions for the transcendental periods as functions
+      of the coefficients of the Laurent polynomial.
+    room: "DDW 1.36"
+  - date: 2025-03-04
+    speaker: "Ekin Ozman"
+    affiliation: "University of Groningen"
+    title: "Modular Curves and the Asymptotic Fermat Conjecture"
+    abstract: >-
+      The modular method became one of the fundamental tools for solving Diophantine equations
+      following Wiles' remarkable work on Fermat's Last Theorem. In this talk, we will provide
+      an overview of Wiles' proof and explore how it can be extended. Additionally, we will
+      discuss the difficulties encountered in this extension.
+    room: "Minnaert 0.13"
+  - date: 2025-03-11
+    speaker: "Thilo Baumann"
+    affiliation: "University of Luxembourg"
+    title: "Categorical absorption for hereditary orders"
+    abstract: >-
+      The idea of categorical absorption of singularities can be used to study the bounded
+      derived category of a flat family of varieties over a smooth curve. We explain how this
+      setup allows the construction of a semiorthogonal decomposition in special situations.
+      Extending this framework to the noncommutative setting, we interpret a hereditary order
+      as a family of finite-dimensional algebras over a curve and construct a semiorthogonal
+      decomposition of the bounded derived category of a hereditary order.
+    room: "HFG 7.07"
+  - date: 2025-03-18
+    speaker: "Lara Vicino"
+    affiliation: "University of Groningen"
+    title: "Locally Recoverable Codes with availability from surfaces with multiple fibrations"
+    abstract: >-
+      Locally Recoverable Codes (LRCs) are a type of error-correcting codes with major
+      applications in cloud storage systems, as they allow to retrieve corrupted (or lost)
+      data by only accessing a small portion of the remaining information. Over the last
+      decade, new LRCs with special properties have been obtained with constructions from
+      algebraic varieties over finite fields. In this talk, I will present a new construction
+      of LRCs from surfaces admitting multiple fibrations. These codes have the availability
+      property, which ensures an extra level of data protection. Joint work with Cecília
+      Salgado.
+    room: "DDW 1.36"
+  - date: 2025-03-25
+    room: "Minnaert 2.07"
+    note: "No talk"
+  - date: 2025-04-01
+    speaker: "Wilberd van der Kallen"
+    affiliation: "Utrecht University"
+    title: 'Highest weight category structures on $\operatorname{Rep}(B)$ and full exceptional collections on generalized flag varieties'
+    abstract: >-
+      Say the base field is algebraically closed. Given a semi-simple simply connected
+      algebraic group $G$ and a parabolic subgroup $P \subseteq G$, we construct $G$-linear
+      semiorthogonal decompositions of the bounded derived category of finite dimensional
+      representations of $P$, with each semiorthogonal component being equivalent to the
+      bounded derived category of finite dimensional representations of $G$. The $G$-linear
+      semiorthogonal decompositions in question are compatible with the Bruhat order on
+      cosets of the Weyl group of $P$ in the Weyl group of $G$. Their construction builds
+      upon the foundational results on $B$-modules from the works of Mathieu, Polo, and van
+      der Kallen, and upon properties of the Steinberg basis of the $T$-equivariant
+      $K$-theory of $G/B$. As a corollary, we obtain full exceptional collections in the
+      bounded derived category of coherent sheaves on generalized flag varieties $G/P$. This
+      is joint work with Alexander Samokhin.
+  - date: 2025-04-08
+    speaker: "Erik Nikolov"
+    affiliation: "Leibniz University Hannover"
+    title: "The Derived Category of the Hilbert Scheme of Three Points"
+    abstract: >-
+      After introducing Hilbert schemes of points on smooth varieties $X$, I will motivate
+      the study of their invariants (in terms of invariants of $X$) in the case of up to
+      three points and in arbitrary dimension. The focus lies especially on a description of
+      the bounded derived category of the Hilbert scheme of three points by means of a
+      semi-orthogonal decomposition, for which an explicit conjecture is presented. I will
+      report on proven parts of the conjecture, to appear soon in my doctoral thesis. Special
+      attention is drawn to a semi-orthogonal sequence obtained from Fourier-Mukai transforms
+      which embed the derived category of $X$ into the one of its Hilbert scheme of three
+      points. The proof of fully-faithfulness of these Fourier-Mukai transforms leads back to
+      the geometry of Hilbert schemes of points, in particular to normal bundle computations
+      on Grassmannian bundles.
+  - date: 2025-04-15
+    speaker: "Sophie Friesen"
+    affiliation: "Leibniz University Hannover"
+    title: "Finite subgroups of automorphisms on K3 surfaces"
+    abstract: >-
+      Finite order automorphisms of K3 surfaces have been an active area of research since
+      foundational work of Nikulin in 1997. A classification of finite subgroups of
+      automorphisms is known over the complex numbers due to work of Mukai, Brandhorst,
+      Hashimoto and Hofmann. But it has been noted by Dolgachev and Keum that this
+      classification generally cannot hold in positive characteristic due to the existence of
+      supersingular K3 surfaces. In the classification of finite groups of symplectic
+      automorphisms on supersingular K3 surfaces, there has been recent progress by Ohashi,
+      Schütt, Wang and Zheng in 2024. In this talk, we will give a historic overview of the
+      results in this area and discuss progress of ongoing work to extend the results of
+      Ohashi and Schütt to non-symplectic finite groups acting on the supersingular K3 surface
+      of Artin invariant one.

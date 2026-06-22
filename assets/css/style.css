@@ -1,0 +1,112 @@
+:root {
+  --accent: #88002b;        /* roughly Utrecht University red */
+  --rule: #ddd;
+  --muted: #666;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+  color: #1a1a1a;
+  margin: 0;
+  background: #fff;
+}
+
+main {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+h1 {
+  font-size: 1.9rem;
+  margin-bottom: 0.25rem;
+}
+
+h1 .subtitle {
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: var(--muted);
+}
+
+h2 {
+  font-size: 1.25rem;
+  color: var(--accent);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.2rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+h3.year {
+  font-size: 1.05rem;
+  color: var(--muted);
+  font-weight: bold;
+  margin: 1rem 0 0.3rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+.intro {
+  margin-bottom: 1.5rem;
+}
+
+details.block {
+  margin: 0.3rem 0;
+}
+
+details.block > summary {
+  cursor: pointer;
+  padding: 0.4rem 0.2rem;
+}
+
+details.block[open] > summary {
+  border-bottom: 1px dotted var(--rule);
+  margin-bottom: 0.5rem;
+}
+
+.schedule {
+  font-style: italic;
+  color: var(--muted);
+  margin: 0.5rem 0 1rem;
+}
+
+.talks {
+  padding-left: 1.75rem;
+  margin-top: 0.5rem;
+}
+
+details.talk,
+p.no-talk {
+  margin: 0.35rem 0;
+}
+
+details.talk > summary {
+  cursor: pointer;
+}
+
+.date {
+  font-weight: bold;
+}
+
+p.no-talk {
+  color: var(--muted);
+  padding-left: 1.1rem;
+}
+
+.note {
+  color: var(--muted);
+}
+
+.talk-body {
+  margin: 0.5rem 0 1rem 1.1rem;
+  padding: 0.6rem 0.9rem;
+  border-left: 3px solid var(--accent);
+  background: #faf7f7;
+}
+
+.talk-body p {
+  margin: 0.4rem 0;
+}

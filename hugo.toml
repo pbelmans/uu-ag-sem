@@ -1,0 +1,9 @@
+baseURL = "https://example.org/"
+locale = "en"
+title = "Algebraic Geometry Seminar @ Utrecht University"
+timeZone = "Europe/Amsterdam"
+
+disableKinds = ["taxonomy", "term", "rss", "sitemap", "section", "page"]
+
+[params]
+  defaultRoom = "HFG 7.07"

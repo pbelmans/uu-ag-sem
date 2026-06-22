@@ -1,0 +1,157 @@
+block: "Block IV"
+year: "2024–2025"
+start: 2025-04-22
+end: 2025-06-27
+schedule: "Tuesdays from 10 am to 11 am CET"
+room: "HFG 7.07"
+talks:
+  - date: 2025-04-22
+    note: "No talk - Dutch Mathematical Congress"
+  - date: 2025-04-29
+    speaker: "Shizhang Li"
+    affiliation: "Chinese Academy of Sciences"
+    title: "$u$-power torsions of prismatic cohomology"
+    abstract: >-
+      In this talk, we will explain relation between $u$-power torsions in Breuil--Kisin
+      prismatic cohomology and various pathologies in $p$-adic cohomology theories, as well as
+      mention some new results. Part of the talk will be based on earlier joint works with
+      Tong Liu, we shall also report some recent ongoing projects with Ofer Gabber and
+      Alexander Petrov separately.
+  - date: 2025-05-06
+    speaker: "Elvira Lupoian"
+    affiliation: "University College London"
+    title: "Ceresa Cycles of Modular Curves"
+    abstract: >-
+      The Ceresa cycle is an algebraic cycle attached to a curve with a marked point. Although
+      it is always homologically trivial, Ceresa proved that for a very general complex curve
+      of genus at least 3, this cycle is algebraically non-trivial. Notably, hyperelliptic
+      curves (with a marked Weierstrass point) have trivial Ceresa cycle, but there are few
+      other explicit examples where triviality/non-triviality is known. In this talk I will
+      discuss the non-vanishing of the Ceresa cycle attached to the modular curve $X_0(N)$.
+      This is joint work with James Rawson.
+  - date: 2025-05-13
+    note: "No talk - see below for workshop on the 14th and 15th."
+  - date: 2025-05-20
+    speaker: "Loïs Faisant"
+    affiliation: "IST Austria"
+    title: "Counting rational curves with prescribed tangency conditions: a motivic analogue via universal torsors"
+    abstract: >-
+      Given a smooth projective and geometrically irreducible curve $C$ and a Mori Dream
+      Space $X$, we present a general parametrisation of morphisms from $C$ to $X$ which
+      allows us to express the Grothendieck motive of $\operatorname{Hom}(C,X)$ as a motivic
+      function defined on some power of the scheme of effective divisors of $C$, generalising
+      previous works of Bourqui. Such a parametrisation should be understood as lifting our
+      morphisms to the universal torsor of $X$. As an application, we prove a motivic
+      analogue of a variant of Manin's conjecture for Campana curves on smooth projective
+      split toric varieties (arXiv:2502.11704).
+  - date: 2025-05-27
+    speaker: "Haowen Zhang"
+    affiliation: "Leiden University"
+    title: "Strong approximation and Brauer-Manin obstruction for homogeneous spaces"
+    abstract: >-
+      For an algebraic variety $X$ over a number field $k$, strong approximation studies the
+      density of rational points inside the set $X(\mathbb{A}_k^S)$ of adelic points away
+      from a finite set $S$ of primes, generalizing the Chinese Remainder Theorem. When
+      strong approximation fails, we want to understand the closure of rational points
+      inside $X(\mathbb{A}_k^S)$. For $X$ a homogeneous space under a semisimple simply
+      connected group with commutative stabilizers, we give conditions showing when the
+      closure of the rational points is equal to the set of adelic points cut out by certain
+      elements from the Brauer group.
+  - date: 2025-06-03
+    speaker: "Nicolo Piazzalunga"
+    affiliation: "Rutgers University"
+    title: "Quasimaps of surfaces"
+    abstract: >-
+      After reviewing the relevant concepts in enumerative geometry,I will present a
+      correspondence between Pandharipande-Thomas theory of Calabi-Yau fourfolds, of the form
+      total space of a rank-two vector bundle over a compact Kahler surface, and certain gauge
+      theories living on the surface. The link is via twisted quasimaps with (fixed) domain
+      the surface, which are shown to be isomorphic to PT1 counts. Interpreting quasimaps as
+      the Higgs branch of some gauge theory, I will explain how to compute $K$-theoretic
+      partition functions on the Coulomb branch via supersymmetric localization, and as a
+      result fix all signs in equivariant PT1 theory of such toric fourfolds from first
+      principles. Based on upcoming work with E. Diaconescu.
+  - date: 2025-06-12
+    speaker: "Finn Bartsch"
+    affiliation: "Radboud University Nijmegen"
+    title: "Symmetric products and puncturing Campana-special varieties"
+    abstract: >-
+      In 2001, Hassett and Tschinkel posed the following "puncturing problem": If $X$ is a
+      projective variety with at most canonical singularities such that no finite etale cover
+      of $X$ dominates a variety of general type and $Z$ is a closed subset of $X$ of
+      codimension at least 2, does it follow that no finite etale cover of $X \setminus Z$
+      dominates a variety of log-general type? Following the philosophy that maps to
+      varieties of general type should be the main obstruction to density of rational points,
+      they also suggested the following "arithmetic puncturing problem": With $X$ and $Z$ as
+      above, if the rational points on $X$ are potentially dense, are the integral points on
+      $X - Z$ potentially dense? In this talk, I will explain how symmetric powers of
+      products of curves provide counterexamples to both of these puncturing problems. On the
+      other hand, conjectures of Campana suggest that the arithmetic puncturing problem has a
+      positive answer if we additionally assume $X$ to be smooth. This is joint work with
+      Ariyan Javanpeykar and Aaron Levin.
+  - date: 2025-06-17
+    speaker: "Victoria Hoskins"
+    affiliation: "Radboud University Nijmegen"
+    title: "Motives of moduli spaces of bundles on curves"
+    abstract: >-
+      I will give an overview of various motivic results for moduli spaces of (semistable)
+      vector bundles and Higgs bundles of coprime rank and degree on a smooth projective
+      curve. These classical moduli spaces are related to various other interesting moduli
+      spaces in representation theory and mathematical physics, and the fact that their
+      cohomology is tautologically generated played an important role in recent proofs of the
+      $P=W$ conjecture. The aim of this talk is to explain a motivic incarnation of this
+      tautological generation: that the motives of these moduli spaces are generated by the
+      motive of the curve. For $\operatorname{SL}$-Higgs moduli spaces, which are
+      non-tautologically generated, we additionally need motives of certain etale covers of
+      the curve. At the end, I will explain how conservatively properties for abelian motives
+      can be harnessed to obtain motivic formulae and provide motivic lifts of known
+      cohomological phenomena, such as $\chi$-independence and mirror symmetry. This is
+      joint work with Simon Pepin Lehalleur and partially also with Lie Fu.
+    note: "cancelled"
+  - date: 2025-06-24
+    speaker: "Giuseppe Ancona"
+    affiliation: "IRMA Strasbourg"
+    title: "Ramified periods and field of definition"
+    abstract: >-
+      In a joint work with Dragos Fratila and Alberto Vezzani, we construct hyperelliptic
+      curves of large genus, defined over quadratic fields that are isomorphic to their Galois
+      conjugates but do not descend to $\mathbb{Q}$. The obstruction to descent is new and we
+      call it "ramified periods." These are $p$-adic numbers that arise from the comparison
+      between de Rham cohomology and crystalline cohomology (hence the term periods). These
+      numbers can reveal interesting information if $p$ ramifies in the quadratic field.
+  - date: 2025-06-24
+    speaker: "Doug Ulmer"
+    affiliation: "University of Arizona"
+    title: "Bounding unlikely intersections on elliptic surfaces"
+    abstract: >-
+      Consider a Jacobian elliptic surface $E$ with a section $P$ of infinite order. How
+      often are multiples of $P$ tangent to the zero section? These are unlikely
+      intersections, and over the complex numbers, we bound their number using the "Betti
+      foliation" and a certain real analytic 1-form. It was not evident how to do this over a
+      general base field, but using a descent map we find an analogue in characteristic $p$,
+      and translating back to characteristic zero, we find another class of tangencies and a
+      bound on them. These are joint works with Giancarlo Urzua and Felipe Voloch.
+    room: "Springer Room (HFG Floor 7)"
+  - date: 2025-07-01
+    speaker: "Maximilian Schimpf"
+    affiliation: "University Heidelberg"
+    title: "Stable pair invariants on local curves"
+    abstract: >-
+      Curve counting on 3-folds is a rich subject with deep connections to physics and
+      representation theory. There exists a multitude of approaches such as Gromov-Witten and
+      Donaldson-Thomas theory, however all of these approaches suffer from redundancies and it
+      is not known in general whether these yield equivalent answers. More recently, John
+      Pardon found a more universal framework that connects these and reduces their
+      differences to so-called local curve contributions. We give closed formulas for these
+      local curve contributions in the case of stable pair theory. Time permitting, we also
+      sketch the connections of our results to the theory of quantum integrable systems.
+  - date: 2025-07-08
+    speaker: "Arkadij Bojko"
+    affiliation: "SIMIS and Fudan University"
+    title: "Equivariant wall-crossing for Calabi-Yau fourfolds"
+    abstract: >-
+      I will present a formulation of equivariant wall-crossing for CY fourfolds in terms of
+      additive deformations of vertex algebras à la Joyce. The proof of wall-crossing formulae
+      will then be sketched on the example of CY4 quivers. Using a quantum-Lefschetz-type
+      argument, I will motivate why the relevant invariants are well-defined. At the end, I
+      will provide immediate and future applications of these results.

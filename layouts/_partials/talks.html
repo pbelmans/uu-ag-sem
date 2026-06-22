@@ -1,0 +1,23 @@
+{{/* expects a block as context; $ is the block, so $.room is the block default room */}}
+<div class="talks">
+  {{ range sort .talks "date" "desc" }}
+    {{ if .speaker }}
+      <details class="talk">
+        <summary>
+          <span class="date">{{ (time .date).Format "January 2" }}{{ with .time }}, {{ . }}{{ end }}:</span>
+          {{ .speaker }}{{ with .affiliation }} ({{ . }}){{ end }}{{ with .note }} <em class="note">&mdash; {{ . }}</em>{{ end }}
+        </summary>
+        <div class="talk-body">
+          {{ with .title }}<p><strong>Title:</strong> {{ . }}</p>{{ end }}
+          {{ with .abstract }}<p><strong>Abstract:</strong> {{ . }}</p>{{ end }}
+          {{ with or .room $.room }}<p><strong>Location:</strong> {{ . }}</p>{{ end }}
+        </div>
+      </details>
+    {{ else }}
+      <p class="talk no-talk">
+        <span class="date">{{ (time .date).Format "January 2" }}{{ with .time }}, {{ . }}{{ end }}:</span>
+        {{ or .note "No talk" }}
+      </p>
+    {{ end }}
+  {{ end }}
+</div>

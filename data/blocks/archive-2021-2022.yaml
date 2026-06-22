@@ -1,0 +1,68 @@
+year: "2021–2022"
+start: 2021-10-04
+end: 2022-07-06
+talks:
+  - date: 2021-10-04
+    speaker: "Marta Pieropan"
+    title: "\"Sums of four squareful numbers\" by Shute, arXiv:2104.06966"
+  - date: 2021-10-11
+    speaker: "Carel Faber"
+    title: "\"A non-hyperelliptic curve with torsion Ceresa class\" by Beauville, arXiv:2105.07160, and \"A non-hyperelliptic curve with torsion Ceresa cycle modulo algebraic equivalence\" by Beauville and Schoen, arXiv:2106.08390"
+  - date: 2021-11-01
+    speaker: "Stefano Marseglia"
+    title: "\"On matrices of endomorphisms of abelian varieties\" by Zarhin, arXiv:2002.00290, and \"Lattices in Tate modules\" by Poonen and Rybakov, arXiv:2107.06363"
+  - date: 2021-11-08
+    speaker: "Dirk van Bree"
+    title: "\"Unramified division algebras do not always contain Azumaya maximal orders\" by Antieau and Williams, arXiv:1209.2216"
+  - date: 2021-11-22
+    speaker: "Dusan Dragutinovic"
+    title: "\"The existence of supersingular curves of genus 4 in arbitrary characteristic\" by Kudo, Harashita and Senda, arXiv:1903.08095"
+    room: "KBG-Atlas"
+  - date: 2021-11-29
+    speaker: "Reinier Schmiermann"
+    title: '"Components and singularities of $\operatorname{Quot}$ schemes and varieties of commuting matrices" by Jelisiejew and Šivic, arXiv:2106.13137'
+    room: "HFG-611"
+  - date: 2022-01-24
+    speaker: "Dirk van Bree"
+    title: "\"Using the internal language of toposes in algebraic geometry\" by Blechschmidt, arXiv:2111.03685"
+  - date: 2022-02-07
+    speaker: "Sergej Monavari"
+    title: '"On the motive of the $\operatorname{Quot}$ scheme of finite quotients of a locally free sheaf" by Ricolfi, arXiv:1907.08123'
+  - date: 2022-02-14
+    speaker: "Boaz Moerman"
+    title: "\"Tamagawa measures on universal torsors and points of bounded height on Fano varieties\" by Salberger, article, and \"Compter des points d'une variété torique\" by de la Bretèche, article"
+  - date: 2022-02-28
+    speaker: "Carolina Tamborini"
+    title: "\"The Coleman-Oort conjecture: reduction to three key cases\" by Moonen, arXiv:2201.11971"
+  - date: 2022-03-07
+    speaker: "Sebastián Carrillo Santana"
+    title: "\"Values of zeta-one functions at positive even integers\" by Kobayashi and Sasaki, arXiv:2202.11835"
+  - date: 2022-05-09
+    speaker: "Marta Pieropan"
+    title: "\"Global Frobenius liftability I & II\" by Achinger, Witaszek and Zdanowicz, arXiv:1708.03777 and arXiv:2102.02788"
+    room: "Duistermaat"
+  - date: 2022-05-25
+    speaker: "Marta Pieropan"
+    title: "\"Heights on stacks and a generalized Batyrev-Manin-Malle conjecture\" by Ellenberg, Satriano and Zureick-Brown, arXiv:2106.11340"
+    room: "HGF-610"
+  - date: 2022-05-31
+    speaker: "Dirk van Bree"
+    title: "\"When are two HKR isomorphisms equal?\" by Huang, arXiv:2205.04439"
+    room: "HFG-610"
+  - date: 2022-06-08
+    speaker: "Wilberd van der Kallen"
+    title: "\"Frobenius Splittings\", arXiv:1208.3100"
+    room: "HFG-610"
+  - date: 2022-06-22
+    time: "11:15"
+    speaker: "Carolina Tamborini"
+    title: "\"Punctual characterization of the unitary flat bundle of weight 1 PVHS and application to families of curves\" by González-Alonso and Torelli, arXiv:2101.03153"
+    room: "HFG-610"
+  - date: 2022-06-28
+    time: "11:00-13:00"
+    speaker: "Pol van Hoften"
+    room: "HFG-611"
+  - date: 2022-07-06
+    time: "11:00-12:00"
+    speaker: "Valentijn Karemaker"
+    room: "HFG-611"

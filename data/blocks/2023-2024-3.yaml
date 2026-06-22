@@ -1,0 +1,187 @@
+block: "Block III"
+year: "2023–2024"
+start: 2024-02-05
+end: 2024-04-19
+schedule: "Thursday at 10-11am"
+talks:
+  - date: 2024-02-08
+    speaker: "Woonam Lim"
+    affiliation: "Utrecht"
+    title: "Moduli spaces of one dimensional sheaves on the projective plane"
+    abstract: >-
+      Moduli spaces of one dimensional sheaves on the projective plane have been studied in
+      connections to enumerative geometry and meromorphic Hitchin system. Cohomology group of
+      the moduli space is equipped with a perverse filtration which plays an important role in
+      these connections. I will explain how to study perverse filtration by combining ideas
+      from tautological ring, BPS integrality and $\chi$-independence. I will finish by
+      proposing a conjectural algebraic characterization of the perverse filtration.
+      This is a joint work in progress with Y. Kononov, M. Moreira, W. Pi.
+    room: "BBG 115"
+  - date: 2024-02-15
+    speaker: "Dylan Butson"
+    affiliation: "Oxford"
+    title: "Perverse coherent extensions on Calabi-Yau threefolds and representations of cohomological Hall algebras"
+    abstract: >-
+      Motivated by the problem of generalizing the ADHM construction of the moduli space of
+      framed torsion free sheaves on $\mathbb{P}^2$, to describe the entire stack of quiver
+      representations geometrically and moreover to extend this to some other toric surfaces,
+      I'll explain a construction of certain moduli stacks of coherent sheaves on toric
+      Calabi-Yau threefolds which admit a natural equivalence with stacks of representations
+      of a framed quiver with potential, following results of Bridgeland and Van den Bergh.
+      I'll also describe natural representations on the critical cohomology groups of
+      subvarieties of stable objects in these stacks, towards proving a generalization of a
+      conjecture of Alday-Gaiotto-Tachikawa.
+    room: "HFG 409"
+  - date: 2024-02-22
+    speaker: "Reinier Schmiermann"
+    affiliation: "Utrecht University"
+    title: "Murphy's law on a fixed locus of the Quot scheme"
+    abstract: >-
+      The Quot and Hilbert schemes of 0 dimensional sheaves on $\mathbb{A}^d$ are
+      moduli spaces that are known to be highly singular for sufficiently large values
+      of $d$. In particular, starting from $d = 16$, by a result of Jelisiejew they are
+      known to satisfy a form of "Murphy's law", meaning that they have arbitrarily bad
+      singularities. It is however still unknown what is the smallest value of $d$ for
+      which we can expect such pathological behaviour. In an attempt to answer this
+      question, in this talk we will study the singularities of the locus of the Quot
+      scheme consisting of fixed points under the torus action coming from
+      $\mathbb{A}^d$. In particular, I will show that already for $d = 4$ this locus
+      satisfies Murphy's law.
+    room: "BBG 061"
+  - date: 2024-02-29
+    speaker: "Younghan Bae"
+    affiliation: "Utrecht University"
+    title: "Generalized Beauville decomposition"
+    abstract: >-
+      By the work of Beauville and Deninger-Murre, the rational cohomology group (in fact, the
+      relative Chow motive) of abelian scheme over a regular base has a canonical
+      decomposition into pure weight pieces. The essential ingredient is the Fourier-Mukai
+      transformation relative to the base. It is a natural question to ask what happens if
+      there exist singular fibers. For a family of integral local planar curves, the relative
+      compactified Jacobian is an example of such “degenerate abelian fibration”. In this
+      talk, we consider perverse filtration on the rational cohomology of the relative
+      compactified Jacobian and ask when the filtration has Fourier-stable multiplicative
+      splitting. If the relative compactified Jacobian arise from Beauville-Mukai system, we
+      get such multiplicative splitting. On the other hand, for general family of integral
+      curves, even for family of nodal curves, such multiplicative splitting cannot exist.
+      This is a joint work with D. Maulik, J. Shen and Q. Yin.
+    room: "BBG 061"
+  - date: 2024-03-07
+    speaker: "Ana María Botero"
+    affiliation: "University of Bielefeld"
+    title: "Toroidal $b$-divisors and applications in differential and arithmetic geometry"
+    abstract: >-
+      We define toroidal $b$-divisors on a quasi projective variety. These can be seen as
+      conical functions on a balanced polyhedral space. We show the existence of an
+      intersection pairing for so called nef toroidal $b$-divisors, which gives rise to a
+      Monge-Ampére type measure on the polyhedral space. We then show some applications
+      of this theory. On the one hand side, $b$-divisors are used to encode singularities
+      of psh metrics and we derive Chern-Weil type formulae for such metrics on line
+      bundles. On the other hand, using a Hilbert-Samuel formula, we compute asymptotic
+      dimension formulae of spaces of automorphic forms on mixed Shimura varieties. If
+      time permits, we connect our work to the notion of adelic line bundles of Yuan and
+      Zhang, and outline some current research directions.
+    room: "BBG 061"
+  - date: 2024-03-14
+    room: "BBG 061"
+    note: "This week also: Enumerative Geometry and Arithmetic"
+  - date: 2024-03-21
+    speaker: "Ratko Darda"
+    affiliation: "Université de Paris (IMJ-PRG)"
+    title: "The Manin conjecture for toric stacks"
+    abstract: >-
+      A basic question in the Diophantine geometry is how many integer solutions to a system
+      of polynomial equations are there, or, in other words, how many rational points are
+      there on algebraic varieties. When there are “many” solutions, the precise asymptotic
+      behaviours are predicted by the Manin conjecture. Recently, the Manin conjecture has
+      been generalized to Deligne–Mumford stacks. Recall that the Deligne–Mumford stacks are
+      the algebro-geometric objects which arise as solutions to the questions of parametrizing
+      objects having finite (not necessarily trivial) automorphism groups. In this talk, we
+      study the Manin conjecture for toric stacks, which are Deligne–Mumford stacks, whose
+      geometry can be described using combinatorial data similar to that describing toric
+      varieties.
+    room: "HFG 409"
+  - date: 2024-03-26
+    speaker: "Younghan Bae"
+    affiliation: "Utrecht University"
+    title: "Intersection theory on compactified Jacobians over the moduli spaces of stable curves"
+    abstract: >-
+      I will give three talks on compactified Jacobians over the moduli space of stable
+      curves. Three talks will be independent and loosely related. Over the moduli space of
+      stable curves, integrals of tautological classes have been an important subject. For
+      example, Witten-Kontsevich theorem says that the generating series of integrals
+      of $\psi$ classes satiesfies the KdV hierarchy. What can we say about relative
+      compactified Jacobian? Using the quasi-stable model, there is a natural choice of
+      tautological classes on compactified Jacobian. In this talk, we will see that the
+      pushforward along the forgetful morphism from the compactified Jacobian to the
+      moduli space of stable curves preserves tautological classes. Our main ingredient
+      is the universal double ramification cycle formula. Using the Witten-Kontsevich
+      theorem, one can compute integrals of tautological classes on compactified
+      Jacobian. Along the way, I will explain how this idea can be adapted to study the
+      logarithmic Picard group constructed by Molcho-Wise. This is a joint work in
+      progress with S. Molcho.
+    room: "Minnaert building Room 0.13"
+    note: "unusual day and location"
+  - date: 2024-03-28
+    speaker: "Younghan Bae"
+    affiliation: "Utrecht University"
+    title: "Fourier transform and class of sections"
+    abstract: >-
+      Fourier transformation is an important tool to study the Chow group (or relative Chow
+      motive) of abelian schemes. By Arinkin, the Fourier transforamtion extends to relative
+      compactified Jacobian for family of integral local planar curves. Using Arinkin’s
+      Fourier transformation, we will see how to compute the class of Abel-Jacobi sections on
+      the relative Jaocbian over a moduli space of integral nodal curves. This computation
+      recovers Pixton’s formula without $r$-polynomial and partially recovers the universal
+      double cycle formula by Bae-Holmes-Pandharipande-Schmitt-Schwartz. This is a joint work
+      with S. Molcho.
+    room: "BBG 061"
+  - date: 2024-04-04
+    speaker: "Sara Mehidi"
+    affiliation: "Utrecht University"
+    title: "The Logarithmic Jacobian and extension of torsors over families of degenerating curves"
+    abstract: >-
+      Molcho and Wise constructed the log Picard group, a canonical compactification of the
+      Picard group of families of nodal curves that is smooth, proper and possesses a group
+      structure, but which can only be represented in the category of logarithmic spaces.
+      Afterwards, it was shown that the restriction of this log Picard group to the degree
+      zero log line bundles - which gives the so called Logarithmic Jacobian- is in fact the
+      log Néron model of the Jacobian of the smooth locus. In this talk, I will first explain
+      the construction of this material. Then, I will show that the Logarithmic Jacobian
+      classifies finite log torsors over families of nodal curves, generalizing the classical
+      situation for smooth curves. Finally, we will see that the Néron property of the Log
+      Jacobian allows to get a result on extending fppf torsors into log torsors over families
+      of nodal curves. This is a joint work with Thibault Poiret.
+    room: "KBG 224"
+  - date: 2024-04-11
+    speaker: "Younghan Bae"
+    affiliation: "Utrecht University"
+    title: "Generalized Faber-Zagier relations on relative Jacobian"
+    abstract: >-
+      Let $M_g$ be the moduli space of smooth genus $g$ algebraic curves. By
+      Madsen-Weiss, the rational cohomology of $M_g$ is a free algebra generated by
+      tautological classes in the “stable range”. Outside the “stable range”, there are
+      relations among tautological classes. Faber-Zagier conjectured that there is a
+      structure of relations among tautological classes outside the “stable range”. This
+      conjecture, and its extension to the moduli space of stable curves, is proven by
+      Pandharipande-Pixton-Zvonkine and Janda. Similar stability results extends to the
+      relative Jacobian over $M_g$ by Ebert-Randal-Williams. It is an interesting
+      question to ask whether we have a generalised Faber-Zagier relations on the
+      relative Jacobian. I will give a candidate of those relations using the stable
+      quotients over the relative Jacobian. This is a joint work in progress with H. Lho.
+    room: "BBG 017"
+    note: "This week also: DIAMANT Symposium"
+  - date: 2024-04-18
+    time: "10:30-11:30"
+    speaker: "Andrea Ricolfi"
+    affiliation: "SISSA"
+    title: "The motive of the Hilbert scheme of points"
+    abstract: >-
+      The geometry of Hilbert schemes of points is largely unknown, or known to be
+      pathological in a precise sense. This should in principle make most (naive) invariants
+      essentially inaccessible. In this talk we explain how to obtain a closed formula for the
+      generating function of the motives (classes in the Grothendieck ring of varieties) of
+      Hilbert schemes of points $\operatorname{Hilb}(X,d)$ for $X$ a smooth variety of
+      arbitrary dimension, and for fixed number of points $d$
+    room: "BBG 017"
+    note: 'unusual time; This week also: $(\infty,n)$-categories and their applications'

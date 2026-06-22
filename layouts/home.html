@@ -1,0 +1,55 @@
+{{ define "main" }}
+<h1>Algebraic Geometry Seminar<br><span class="subtitle">@ Utrecht University</span></h1>
+
+<div class="intro">
+  {{ .Content }}
+</div>
+
+{{/* collect all blocks from data/blocks/ and sort newest first */}}
+{{ $blocks := slice }}
+{{ range $key, $b := hugo.Data.blocks }}
+  {{ $blocks = $blocks | append $b }}
+{{ end }}
+{{ $blocks = sort $blocks "start" "desc" }}
+
+{{/* classify against today: a block is current from its start date through its end date */}}
+{{ $today := now }}
+{{ $current := slice }}
+{{ $upcoming := slice }}
+{{ $past := slice }}
+{{ range $blocks }}
+  {{ $start := time .start }}
+  {{ $end := (time .end).AddDate 0 0 1 }}
+  {{ if $today.Before $start }}
+    {{ $upcoming = $upcoming | append . }}
+  {{ else if $today.Before $end }}
+    {{ $current = $current | append . }}
+  {{ else }}
+    {{ $past = $past | append . }}
+  {{ end }}
+{{ end }}
+
+{{ with $current }}
+<h2>Current block</h2>
+{{ range . }}{{ partial "block.html" (dict "block" . "open" true) }}{{ end }}
+{{ end }}
+
+{{ with $upcoming }}
+<h2>Upcoming block(s)</h2>
+{{ range . }}{{ partial "block.html" (dict "block" .) }}{{ end }}
+{{ end }}
+
+{{ with $past }}
+<h2>Previous seminars</h2>
+{{/* blocks are sorted by start desc, so years are contiguous; emit a sub-heading per year */}}
+{{ $lastYear := "" }}
+{{ range . }}
+  {{ $year := .year }}
+  {{ if ne $year $lastYear }}
+<h3 class="year">{{ $year }}</h3>
+    {{ $lastYear = $year }}
+  {{ end }}
+  {{ partial "block.html" (dict "block" . "hideYear" true) }}
+{{ end }}
+{{ end }}
+{{ end }}

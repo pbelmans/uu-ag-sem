@@ -1,0 +1,17 @@
+{{ $b := .block }}
+{{ if $b.block }}
+<details class="block"{{ if .open }} open{{ end }}>
+  <summary>
+    {{ if .hideYear }}<strong>{{ $b.block }}</strong>: {{ else }}<strong>{{ $b.block }}</strong>{{ with $b.year }} ({{ . }}){{ end }}: {{ end }}{{ (time $b.start).Format "January 2, 2006" }} &ndash; {{ (time $b.end).Format "January 2, 2006" }}
+  </summary>
+  {{ with $b.schedule }}
+  <p class="schedule">
+    In this block, the seminar is held on {{ . }}{{ with $b.room }} in {{ . }}{{ end }}.
+  </p>
+  {{ end }}
+  {{ partial "talks.html" $b }}
+</details>
+{{ else }}
+{{/* archive years without a block structure: list the talks directly, no header */}}
+{{ partial "talks.html" $b }}
+{{ end }}

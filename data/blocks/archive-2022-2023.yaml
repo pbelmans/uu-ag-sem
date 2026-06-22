@@ -1,0 +1,431 @@
+year: "2022–2023"
+start: 2022-09-21
+end: 2023-06-28
+talks:
+  - date: 2022-09-21
+    speaker: "Boaz Moerman"
+    title: "\"Weak approximation and the Hilbert property for Campana points\" by Nakahara and Streeter, arXiv:2010.12555"
+    note: "preprint talk"
+  - date: 2022-10-05
+    speaker: "Dusan Dragutinovic"
+    title: "Computing binary curves of genus five"
+    abstract: >-
+      In this talk, we will present algorithms used to determine, up to isomorphism over
+      $\mathbb{F}_2$, all genus five curves defined over $\mathbb{F}_2$ (together with the
+      sizes of their $\mathbb{F}_2$-automorphism groups). Furthermore, we will discuss the
+      outcome considering the Newton polygons of computed curves and mention the obtained
+      stack count $|\mathcal{M}_5(\mathbb{F}_2)|$.
+  - date: 2022-10-12
+    speaker: "Remy van Dobben de Bruyn"
+    title: "A variety that cannot be dominated by one that lifts"
+    abstract: >-
+      The recent proofs of the Tate conjecture for K3 surfaces over finite fields start by
+      lifting the surface to characteristic 0. Serre showed in the sixties that not every
+      variety can be lifted, but the question whether every motive lifts to characteristic 0
+      is open. We give a negative answer to a geometric version of this question, by
+      constructing a smooth projective variety that cannot be dominated by a smooth projective
+      variety that lifts to characteristic 0.
+    room: "HFG-409"
+  - date: 2022-10-19
+    speaker: "Carel Faber"
+    title: "\"On the Chow and cohomology rings of moduli spaces of stable curves\" by Canning and Larson, arXiv:2208.02357"
+    room: "HFG-409"
+    note: "preprint talk"
+  - date: 2022-10-26
+    speaker: "Reinier Schmiermann"
+    title: "On Classifying Continuous Constraint Satisfaction Problems"
+    abstract: >-
+      The computational complexity class of the existential theory of the reals contains
+      problems which can be reduced to checking whether a system of polynomial equations has a
+      solution over the real numbers. The complexity of a lot of problems in computational
+      geometry turns out to be captured by this class (they are complete for this class).
+      These completeness proofs often use the completeness of a specific Continuous Constraint
+      Satisfaction Problem (CCSP) as an intermediate step. We attempt to give a more
+      systematic analysis of the computational complexity of these CCSPs, and show that a
+      large class of CCSPs is complete for the existential theory of the reals. In this talk,
+      I will give a introduction to computational complexity, the existential theory of the
+      reals, and CCSPs. Then I will state our results, and give a sketch of the proof. This
+      talk is based on joint work with Tillmann Miltzow.
+    room: "HFG-409"
+  - date: 2022-11-16
+    speaker: "Francesca Carocci"
+    affiliation: "EPFL"
+    title: "BPS invariant from non Archimedean integrals"
+    abstract: >-
+      We consider moduli spaces of one-dimensional semistable sheaves on del Pezzo and K3
+      surfaces supported on ample curve classes. Working over a non-archimedean local field
+      $F$, we define a natural measure on the $F$-points of such moduli spaces. We prove that
+      the integral of a certain naturally defined gerbe on the moduli spaces with respect to
+      this measure is independent of the Euler characteristic. Analogous statements hold for
+      (meromorphic or not) Higgs bundles. Recent results of Maulik-Shen and Kinjo-Coseki imply
+      that these integrals compute the BPS invariants for the del Pezzo case and for Higgs
+      bundles. This is a joint work with Giulio Orecchia and Dimitri Wyss.
+    room: "HFG-409"
+  - date: 2022-11-23
+    speaker: "Mar Curco Iranzo"
+    affiliation: "UU"
+    title: 'Generalised Jacobians of modular curves and their $\mathbb{Q}$-rational torsion'
+    abstract: >-
+      The Jacobian $J_0(N)$ of the modular curve $X_0(N)$ has received much attention within
+      arithmetic geometry for its relation with cusp forms and elliptic curves. In particular,
+      the group of $\mathbb{Q}$-rational points on $X_0(N)$ controls the cyclic $N$-isogenies
+      of elliptic curves. A conjecture of Ogg predicted that, for $N$ prime, the torsion of
+      this group comes all from the cusps. The statement was proved by Mazur and later
+      generalised to arbitrary level $N$ into what we call generalised Ogg’s conjecture.
+      Consider now the generalised Jacobian $J_0(N)_m$ with respect to a modulus $m$. This
+      algebraic group also seems to be related to the arithmetic of $X_0(N)$ through the
+      theory of modular forms. In the talk we will present new results that compute the
+      $\mathbb{Q}$-rational torsion of $J_0(N)$ for $N$ an odd integer with respect to a
+      cuspidal modulus $m$. These generalise previous results of Yamazaki, Yang and Wei. In
+      doing so, we will also discuss how our results relate to generalised Ogg’s conjecture.
+    room: "HFG-409"
+  - date: 2022-11-30
+    speaker: "Navid Nabijou"
+    affiliation: "QMU London"
+    title: "Roots and logs in the enumerative forest"
+    abstract: >-
+      Logarithmic and orbifold structures provide two different paths to the enumeration of
+      curves with fixed tangencies to a normal crossings divisor. Simple examples demonstrate
+      that the resulting systems of invariants differ, but a more structural explanation of
+      this defect has remained elusive. I will discuss joint work with Luca Battistella and
+      Dhruv Ranganathan, in which we identify birational invariance as the key property
+      distinguishing the two theories. The logarithmic theory is stable under strata blowups
+      of the target, while the orbifold theory is not. By identifying a suitable system of
+      “slope-sensitive” blowups, we define a “limit" orbifold theory and prove that it
+      coincides with the logarithmic theory. Our proof hinges on a technique – rank reduction
+      – for reducing questions about normal crossings divisors to questions about smooth
+      divisors, where the situation is much-better understood.
+    room: "HFG-409"
+  - date: 2022-12-07
+    speaker: "Leo Herr"
+    affiliation: "Leiden University"
+    title: "The Rhizomic Topology"
+    abstract: >-
+      What is a sheaf on a log scheme $X$? If we take the ordinary etale topology, we ignore
+      the log structure. Taking the log étale topology, even the structure "sheaf"
+      $\mathcal{O}_X$ is not a sheaf! The same goes for $M_X$, $\overline{M}_X$. We introduce
+      a new "rhizomic" topology on log schemes coarser than the log etale topology. Will this
+      be enough?
+    room: "HFG-409"
+  - date: 2023-01-11
+    time: "11:00"
+    speaker: "Lars Halvard Halle"
+    affiliation: "University of Bologna"
+    title: "Degenerations of Hilbert schemes and relative VGIT"
+    abstract: >-
+      This talk will be a report on joint work with K. Hulek and Z. Zhang. First I will
+      explain how some central results in VGIT can be extended to a relative setting. After
+      this, I will discuss an application of relative VGIT to the study of certain
+      degenerations of Hilbert schemes of points.
+    room: "HFG-409"
+  - date: 2023-01-18
+    time: "10:00"
+    speaker: "Mick van Vliet"
+    affiliation: "UU"
+    title: "Tame geometry and Hodge theory"
+    abstract: >-
+      Tame geometry, made precise by the concept of o-minimal structures, has recently led to
+      some interesting developments in algebraic geometry. In the first half of this talk I
+      will motivate and explain the definition of o-minimal structures, and review some
+      remarkable theorems that hold in the resulting framework of tame geometry. In the second
+      half of the talk, based on work of Bakker, Klingler, and Tsimerman (1810.04801), I will
+      give an overview of a recent application of tame geometry to Hodge theory.
+    room: "HFG-409"
+  - date: 2023-02-01
+    time: "11:00"
+    speaker: "Olivier de Gaay Fortman"
+    affiliation: "Hannover"
+    title: "Real moduli spaces, unitary Shimura varieties and non-arithmetic lattices"
+    abstract: >-
+      Hodge theory can sometimes be used to identify a moduli space of complex varieties with
+      a complex ball quotient, or an open subset of such a space. I will explain that similar
+      things happen for moduli of real varieties. Real moduli spaces of smooth varieties are
+      often not connected, however - to get a connected moduli space one is led to allow some
+      singularities. It turns out that, very similar to the way in which the connected
+      components of the space of smooth varieties embed into the larger moduli space, real
+      arithmetic ball quotients can be glued together to form a large real ball quotient.
+      Unitary Shimura varieties provide the right framework for this glueing procedure. I will
+      explain how this works, constructing non-arithmetic lattices in
+      $\operatorname{PO}(n,1)$ for every $n$.
+    room: "HFG-409"
+  - date: 2023-02-08
+    time: "13:30"
+    speaker: "Hyeonjun Park"
+    affiliation: "KIAS"
+    title: "Cosection localization via derived algebraic geometry"
+    abstract: >-
+      Cosection localization is one of the most powerful tools in virtual enumerative
+      geometry. In this talk, we revisit cosection localization from the perspective of
+      derived algebraic geometry. I will explain derived reduction by $(-1)$-shifted
+      closed 1-forms and localization through homotopical intersection theory. I will also
+      provide an intrinsic description of cosection-localized virtual cycles using
+      $(-2)$-shifted
+      symplectic structures. This is based on joint works with Younghan Bae and Martijn Kool,
+      with Dhyan Aranha, Adeel Khan, Alexei Latyntsev, and Charanya Ravi, and with Young-Hoon
+      Kiem.
+    room: "HFG-409"
+  - date: 2023-02-15
+    time: "13:30"
+    speaker: "Andreas Braun"
+    affiliation: "Durham"
+    title: "Hodge classes on Calabi-Yau fourfolds"
+    abstract: >-
+      A crucial question in string theory concerns its set of solutions, particularly those
+      giving rise to an effective four-dimensional description. The most general such
+      solutions are found by specifying a Calabi-Yau fourfold equipped with an elliptic
+      fibration, together with a Hodge class. Without assuming any background I will briefly
+      explain how these objects arise in physics, and which constraints they need to obey.
+      After formulating some of the central questions and conjectures that arise in this
+      context, I will discuss some recent progress.
+    room: "BBG-069"
+  - date: 2023-03-01
+    time: "13:30"
+    speaker: "Stefano Marseglia"
+    affiliation: "UU"
+    title: "Cohen-Macaulay type of endomorphism rings of abelian varieties over finite fields"
+    abstract: >-
+      In this talk, we will speak about the (Cohen-Macaulay) type of the endomorphism ring of
+      abelian varieties over a finite field with commutative endomorphism algebra. We will
+      exhibit a condition on the type of $\operatorname{End}(A)$ implying that $A$ cannot be
+      isomorphic to its dual. In particular, such an $A$ cannot be principally polarised or a
+      Jacobian. This is
+      partly joint work with Caleb Springer.
+    room: "HFG-409"
+  - date: 2023-03-15
+    time: "13:30"
+    speaker: "Henry Liu"
+    affiliation: "Oxford"
+    title: "Multiplicative vertex algebras and wall-crossing in equivariant $K$-theory"
+    abstract: >-
+      I will give an overview of recent progress in wall-crossing for equivariant
+      $K$-theoretic
+      invariants of moduli of sheaves, based on a new framework of Joyce. A multiplicative
+      version of vertex algebras plays a central role in this and related stories. I will give
+      some applications to refined Vafa-Witten theory, the 3-fold DT/PT correspondence, and,
+      if time permits, also some speculation about modularity and $S$-duality.
+    room: "HFG-409"
+  - date: 2023-03-22
+    time: "13:30"
+    speaker: "Sara Mehidi"
+    affiliation: "Bordeaux"
+    title: "Extending torsors via log schemes"
+    abstract: >-
+      We give here an approach of the problem of extending torsors defined on the generic
+      fiber of a family of curves. The question is to extend each of the structural group and
+      the total space of the torsor above the family. This problem has been studied by many
+      researchers, starting by the first ideas of Grothendieck who solved the case of a
+      constant group of order prime to the residual characteristic. When we are interested in
+      algebraic varieties from an arithmetic point of view, it is natural to consider torsors
+      under a finite flat group that is not necessarily constant: we talk about fppf torsors.
+      In fact, we know from the literature that there are cases where the problem does not
+      have a solution in this setting. So the idea is to look for a solution in a larger
+      category, namely the category of logarithmic torsors. We will show in particular that
+      the existence of such an extension amounts to extending group functors and morphisms
+      between them. Then, we will compute the obstruction for the extended log torsor to lift
+      into an fppf one. Finally, we give an example of a computation of an extension of a
+      torsor over a given hyperelliptic curve as an application of our results.
+    room: "HFG-409"
+  - date: 2023-04-05
+    time: "13:30"
+    speaker: "Fabian Reede"
+    affiliation: "Hannover"
+    title: "Line bundles on noncommutative algebraic surfaces"
+    abstract: >-
+      Let $X$ be a complex algebraic surface. Let $A$ be a (noncommutative) coherent
+      $\mathcal{O}_X$-algebra whose generic stalk is a central division algebra. Then the
+      pair $(X,A)$ can be thought of as a noncommutative algebraic surface. This talk
+      deals with the moduli space of line bundles on $(X,A)$, i.e., of locally free
+      $A$-modules of rank one, in the cases where $X$ has Kodaira dimension zero or is
+      Fano. It turns out that the moduli space can be compactified by adding torsion-free
+      $A$-modules of rank one. We will study e.g. the smoothness of this compactification
+      and the deformation theory of the sheaves involved. This is partly joint work with
+      U. Stuhler and with N.Hoffmann.
+    room: "HFG-409"
+  - date: 2023-04-18
+    time: "13:30-15:30"
+    speaker: "Carolina Tamborini"
+    affiliation: "UU"
+    title: "Siegel space as symmetric space"
+    room: "HFG 610"
+    note: "minicourse"
+  - date: 2023-04-19
+    time: "13:30-14:30"
+    speaker: "Oliver Leigh"
+    affiliation: "Uppsala"
+    title: "The Blowup Formula for the Instanton Part of Vafa-Witten Invariants on Projective Surfaces"
+    abstract: >-
+      In this talk I will present a blow-up formula for the generating series of virtual
+      $\chi_y$-genera for moduli spaces of sheaves on projective surfaces. The formula is
+      related to a conjectured formula for topological $\chi_y$-genera of Göttsche, and is
+      a refinement of a formula of Vafa-Witten relating to $S$-duality. I will also discuss
+      the proof of the formula, which is based on the blow-up algorithm of Nakajima-Yoshioka
+      for framed sheaves on $\mathbb{P}^2$. This talk is based on joint work with Nikolas
+      Kuhn and Yuuji Tanaka.
+    room: "HFG-409"
+  - date: 2023-04-20
+    time: "13:30-15:30"
+    speaker: "Carolina Tamborini"
+    affiliation: "UU"
+    title: "Torelli map, its differential, its second fundamental form, and the Lie bracket map"
+    room: "HFG 610"
+    note: "minicourse"
+  - date: 2023-04-25
+    time: "13:30-15:30"
+    speaker: "Carolina Tamborini"
+    affiliation: "UU"
+    title: "Some results on totally geodesic subvarieties in the Torelli locus"
+    room: "HFG 610"
+    note: "minicourse"
+  - date: 2023-04-26
+    time: "13:30-15:30"
+    speaker: "Carolina Tamborini"
+    affiliation: "UU"
+    title: "Families of Galois covers of the line: examples and construction"
+    room: "HFG 409"
+    note: "minicourse"
+  - date: 2023-05-03
+    time: "13.30-14.30"
+    speaker: "Chia-Fu Yu"
+    affiliation: "Academia Sinica, Taiwan"
+    title: "Arithmetic invariants on supersingular Ekedahl-Oort (EO) strata for $g=4$"
+    abstract: >-
+      The supersingular locus is one of main interests in algebraic geometry in
+      characteristic $p$, and can be described in terms of polarised flag type quotients
+      (PFTQs) in the sense of Li and Oort. The description for $g=3$ is rather explicit and
+      is exploited by Karemaker and Yobuko and myself for investigating the arithmetic
+      invariants of supersingular abelian threefolds, namely, the endomorphism rings and
+      automorphism groups of them, confirming Oort's conjecture for $g=3$. In this talk we
+      shall explain a general method for investigating the arithmetic invariants on
+      supersingular EO strata, and report the progress of the joint work with Karemaker
+      for $g=4$.
+    room: "HFG 409"
+  - date: 2023-05-10
+    time: "11:30-12:30"
+    speaker: "Thorsten Schimannek"
+    affiliation: "CNRS LPTHE"
+    title: "Counting curves on non-Kaehler Calabi-Yau 3-folds with Topological Strings"
+    abstract: >-
+      In general, a projective Calabi-Yau threefold with nodal singularities does not admit a
+      Kaehler small resolution. This happens in particular if the exceptional curves are
+      torsion in homology. In this talk we will discuss how the classical relationship between
+      topological string theory, enumerative geometry and mirror symmetry generalizes to this
+      setting. After recalling some of the ideas from the smooth case, we will both explain
+      the physical intuition behind the generalization and translate it into a concrete
+      mathematical proposal. At the end of the talk, if time permits, we will highlight some
+      open questions that follow from this proposal, related to Donaldson-Thomas theory,
+      non-commutative geometry, and FJRW-theory.
+    room: "MIN 2.01"
+  - date: 2023-05-17
+    time: "11:30-12:30"
+    speaker: "Samir Canning"
+    affiliation: "ETH"
+    title: "Semi-tautological systems and the cohomology of the moduli space of curves"
+    abstract: >-
+      I will introduce the notion of semi-tautological systems, which are systems of
+      subalgebras with minimal set of functoriality properties of the cohomology rings of the
+      moduli spaces of stable curves. They are designed to study the structure of the
+      cohomology of the moduli spaces of stable curves beyond the tautological ring. I will
+      give a criterion for a given semi-tautological system to span all of cohomology in a
+      given degree. Using this criterion and other results about the moduli space of curves,
+      both topological and algebro-geometric, I will give several applications. These
+      applications include a complete description of the thirteenth cohomology of the moduli
+      space of stable $n$ pointed curves of genus $g$ for all $g,n$ and that all cohomology
+      classes
+      of sufficiently high degree are tautological. This is joint work in progress with Hannah
+      Larson and Sam Payne.
+    room: "HFG 409"
+  - date: 2023-05-24
+    time: "11:30-12:30"
+    speaker: "Nancy Abdallah"
+    affiliation: "University of Borås"
+    title: "Lefschetz properties of Artin Gorenstein algebras in low codimensions"
+    abstract: >-
+      The weak and strong Lefschetz properties (WLP and SLP) has been much studied for
+      Artinian algebras. Codimension two Artinian algebras over a field of characteristic zero
+      have the strong Lefschetz property. It is open whether Artin Gorenstein (AG) algebras of
+      codimension $c=3$ satisfy the weak or strong Lefschetz properties. Harima, Migliore,
+      Nagel, and Watanabe proved that complete intersection algebras of codimension three
+      satisfy the weak Lefschetz property. For $c=4$, Gondim showed that WLP always holds for
+      regularity $r = 7$, building on an earlier example of Ikeda of failure for $r=5$. In
+      this
+      talk we go through an overview of Lefschetz properties over AG algebras and we give some
+      recent results in codimensions 3 and 4. In codimension 4 we explore relations between
+      Lefschetz properties of an AG algebra $A$ and the free resolutions of $A$. Lefschetz
+      properties of the Milnor algebras of projective hypersurfaces will be discussed.
+    room: "HFG 409"
+  - date: 2023-06-07
+    time: "11:30-12:30"
+    speaker: "Jeongseok Oh"
+    affiliation: "Imperial College, KIAS"
+    title: "Koszul factorisations of moduli spaces and invariants"
+    abstract: >-
+      Invariants on moduli spaces are defined to be integrations over the virtual fundamental
+      classes or Euler characteristics of the virtual structure sheaves. Roughly a virtual
+      structure sheaf is a Koszul resolution of the structure sheaf and the virtual
+      fundamental class is its Chern character (multiplied by Todd class). In fact their first
+      algebraic constructions by Li-Tian and Behrend-Fantechi look different. Here we explain
+      these two are the same in a reasonable circumstance. Furthermore, we explain the use of
+      Koszul factorisations rather than Koszul resolutions gives rise to Kiem-Li localisations
+      of Li-Tian and Behrend-Factechi constructions. These are joint works with Bumsig Kim and
+      Bhamidi Sreedhar. We can use these to produce invariants of moduli spaces of stable
+      sheaves on Calabi-Yau 4-folds as explained in the joint work with Richard Thomas.
+    room: "HFG 409"
+  - date: 2023-06-14
+    time: "11:30-12:30"
+    speaker: "Gergely Berczi"
+    affiliation: "Aarhus"
+    title: "Tautological intersection theory of Hilbert scheme of points"
+    abstract: >-
+      While the Hilbert scheme of points on surfaces is pretty well-understood, the Hilbert
+      scheme over manifolds presents a mixture of pathological and unknown behaviour: our
+      knowledge of their components, singularities and deformation theory is very limited.
+      After a brief survey we report on a new approach to calculate tautological intersection
+      numbers of geometric subsets which play crucial role in enumerative geometry
+      applications. We present a Chern-Segre-type positivity conjecture for tautological
+      integrals coming from global singularity theory.
+    room: "HFG 409"
+  - date: 2023-06-21
+    time: "11:30-12:30"
+    speaker: "Lou van den Dries"
+    affiliation: "University of Illinois at Urbana-Champaign"
+    title: "Transseries and Hardy Fields"
+    abstract: >-
+      Transseries are formal series involving $\exp$ and $\log$. The differential field of
+      transseries is a universal domain for algebraic differential equations with asymptotic
+      side conditions (in analogy with the field of complex numbers being a universal domain
+      for algebraic geometry). I will then apply this to Hardy fields. Until recently there
+      were only very limited ways of extending Hardy fields, but recently we have achieved a
+      more or less complete overview. I will start from scratch and define/explain transseries
+      and Hardy fields, including examples. (Joint work with Matthias Aschenbrenner and Joris
+      van der Hoeven.)
+    room: "BBG 165"
+  - date: 2023-06-23
+    time: "14:00-15:00"
+    speaker: "Aline Zanardini"
+    affiliation: "Leiden University"
+    title: "Pencils of plane cubics revisited"
+    abstract: >-
+      In recent joint work with M. Hattori we have considered the problem of classifying
+      linear systems of hypersurfaces (of a fixed degree) in some projective space up to
+      projective equivalence via geometric invariant theory (GIT). And we have obtained a
+      complete and explicit stability criterion. In this talk I will explain how this
+      criterion can be used to recover Miranda's description of the GIT stability of pencils
+      of plane cubics.
+    room: "HFG 409"
+  - date: 2023-06-28
+    time: "11:30-12:30"
+    speaker: "Sarah Arpin"
+    affiliation: "Leiden"
+    title: "Adding level structure to supersingular elliptic curve isogeny graphs"
+    abstract: >-
+      The classical Deuring correspondence provides a roadmap between supersingular elliptic
+      curves and the maximal orders which are isomorphic to their endomorphism rings. Building
+      on this idea, we add the information of a cyclic subgroup of prime order $N$ to
+      supersingular elliptic curves, and prove a generalisation of the Deuring correspondence
+      for these objects. We also study the resulting $\ell$-isogeny graphs supersingular
+      elliptic curve with level-$N$ structure, and the corresponding graphs in the realm of
+      quaternion algebras. The structure of the supersingular elliptic curve $\ell$-isogeny
+      graph underlies
+      the security of a new cryptographic signature protocol, SQISign, which is proposed to be
+      resistant against both classical and quantum attack.
+    room: "HFG 409"

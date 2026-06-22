@@ -1,0 +1,133 @@
+block: "Block IV"
+year: "2023–2024"
+start: 2024-04-22
+end: 2024-06-28
+schedule: "Wednesday at 1-2pm"
+room: "BBG 083"
+talks:
+  - date: 2024-04-24
+    speaker: "Ruijie Yang"
+    affiliation: "Berlin"
+    title: "Minimal exponent of a hypersurface"
+    abstract: >-
+      Recently, the minimal exponent of a hypersurface over complex numbers has been
+      understood as a quite useful refined invariant of the log canonical threshold. It has
+      found many new applications including deformation of Calabi-Yau 3-folds (Friedman-Laza),
+      higher rational and higher du Bois singularities (Mustata-Popa) and geometric Schottky
+      problem (Schnell-Yang). However, some properties of this invariant remain mysterious. In
+      this talk I will discuss the conjecture of Mustata and Popa on birational
+      characterization of the minimal exponent via log resolutions, which is the main
+      obstruction for the computation in practice. I will explain the heuristic of the
+      Mustata-Popa conjecture from Igusa's work on counting integer solutions of congruence
+      equations and the monodromy conjecture. Then I will discuss how several ideas from Hodge
+      theory and geometry representation theory can lead to a better understanding of the
+      minimal exponent (birationally). This is based on the joint work with Christian Schnell
+      on higher multiplier ideals and the joint work in progress with Dougal Davis on a new
+      description of the Kashiwara-Malgrange $V$-filtration of mixed Hodge modules.
+    note: "This week on April 26 also: Belgian Dutch Algebraic Geometry Seminar"
+  - date: 2024-05-01
+    speaker: "Felix Wierstra"
+    affiliation: "Utrecht"
+    title: "The Mumford conjecture"
+    abstract: >-
+      The Mumford conjecture is an important result that computes the cohomology of the moduli
+      space of curves in the stable range and was originally proved by Madsen and Weiss about
+      20 years ago. Recently, a new alternative proof of the Mumford conjecture was given by
+      Bianchi. In this talk, I will discuss a version of Bianchi's proof which was further
+      streamlined by Das and Petersen.
+    room: "BBG 161"
+  - date: 2024-05-08
+  - date: 2024-05-15
+    speaker: "Bianca Gouthier"
+    affiliation: "University of Bordeaux"
+    title: "Infinitesimal rational actions"
+    abstract: >-
+      For any finite $k$-group scheme $G$ acting rationally on a $k$-variety $X$, if the
+      action is generically free then the dimension of $\operatorname{Lie}(G)$ is upper
+      bounded by the dimension of the variety. This inequality turns out to be also a
+      sufficient condition for the existence of such actions, when $k$ is a perfect
+      field of positive characteristic and $G$ is infinitesimal commutative
+      trigonalizable. These group schemes are non-reduced and arise only in positive
+      characteristic. After presenting the main objects involved and overviewing the
+      motivation for this problem, we willl explain the result in the case of actions
+      of the $p$-torsion of a supersingular elliptic curve.
+  - date: 2024-05-21
+    time: "10:00-11:00"
+    speaker: "Rahul Pandharipande"
+    affiliation: "ETH Zurich"
+    title: "Higher genus GW theory of the Hilbert scheme of points of the plane"
+    abstract: >-
+      The quantum cohomology of the $\operatorname{Hilb}(\mathbb{C}^2,n)$ is determined
+      by the operator of quantum multiplication by the divisor class (and was computed
+      20 years ago in work with Okounkov). I will explain how to think about the higher
+      genus theory from several perspectives: CohFT, MNOP, and, in the case of genus 1,
+      the intersection theory of the moduli space $A_g$ of PPAVs. The talk is connected
+      to recent joint and disjoint work of several mathematicians: S. Canning, F. Greer,
+      A. Iribar Lopez, C. Lian, S. Molcho, D. Oprea, A. Pixton,and H.-H. Tseng.
+    room: "KBG - ATLAS"
+    note: "unusual day, time, location"
+  - date: 2024-05-29
+    speaker: "Young-hoon Kiem"
+    affiliation: "KIAS"
+    title: "Shifted Lagrange multipliers method"
+    abstract: >-
+      Lagrange multipliers method relates critical points on a submanifold with those on the
+      ambient manifold. In derived algebraic geometry, we are allowed to consider a more
+      general type of functions called shifted functions and their critical loci. In this
+      talk, I will discuss how Lagrange multipliers method adapted to derived algebraic
+      geometry naturally produces quantum Lefschetz principle of Chang-Li and more.
+  - date: 2024-06-05
+    speaker: "Thibault Poiret"
+    affiliation: "University of St Andrews"
+    title: "Moduli of roots of universal line bundles"
+    abstract: >-
+      Let $L$ be a line bundle on the universal curve over $M_{g,n}$. The moduli space
+      $S^0$ of $r$-th roots of $L$ admits a natural compactification $S$ over the
+      Deligne-mumford compactification of $M_{g,n}$. When $r$ is 2 and $L$ is the
+      canonical bundle, $S^0$ is the well-studied moduli space of spin curves, which is
+      known to have two connected components: one parametrizing even spin curves, and
+      one parametrizing odd spin curves. I will describe a natural partition of $S$ into
+      connected locally closed subspaces for arbitrary $r$ and $L$. This partition is
+      compatible with the partition of the Deligne-Mumford compactification indexed by
+      stable graphs. This is joint work in progress with Margarida Melo.
+  - date: 2024-06-12
+    speaker: "Raju Krishnamoorthy"
+    affiliation: "Humboldt Universität Berlin"
+    title: "Rank 2 local systems and abelian varieties"
+    abstract: >-
+      Motivated by work of Corlette-Simpson over the complex numbers, we conjecture
+      that all irreducible rank 2 $\ell$-adic local systems with cyclotomic determinant
+      and infinite image on a smooth variety over a finitely generated field come from
+      families of abelian varieties. We will survey partial results on this conjecture.
+      Time permitting, we will provide indications of the proofs, which involve the
+      work of Hironaka and Hartshorne on positivity, Drinfeld's first work on the
+      Langlands correspondence over function fields, space filling curves, and the
+      pigeonhole principle. The results are all joint work with either Ambrus Pál or
+      Jinbang Yang and Kang Zuo.
+  - date: 2024-06-19
+    speaker: "Katharina Hübner"
+    affiliation: "Goethe-Universität Frankfurt"
+    title: "An integral structure on the sheaf of differentials"
+    abstract: >-
+      We explain how to define an integral structure on the sheaf of differentials $\Omega_X$
+      of an adic space $X$. This should be thought of as an analogue of the subsheaf
+      $\mathcal{O}_X^+$ of the structure sheaf $\mathcal{O}_X$. This integral structure
+      $\Omega_X^+$ can be described in terms of logarithmic differentials on a log regular
+      model (if such a model exists). Possibly assuming resolution of singularities this gives
+      a strategy for transferring results on log étale cohomology to tame cohomology.
+    room: "BBG 201"
+  - date: 2024-06-26
+    speaker: "Lucien Hennecart"
+    affiliation: "University of Edinburgh"
+    title: "Cohomological integrality isomorphisms"
+    abstract: >-
+      The theory of cohomological Hall algebras has proven powerful in studying
+      Donaldson-Thomas invariants of some 3-Calabi-Yau categories. It is in particular crucial
+      to obtain cohomological integrality identities. Roughly speaking, the cohomological
+      integrality results concern the finiteness of some invariants associated to the
+      category. They also give cohomologically refined invariants. In my talk, I will give a
+      brief overview of such results, explain their meaning, and explain how to obtain them in
+      various contexts. I will concentrate on a new situation given by symmetric
+      representations of reductive groups.
+    room: "Minnaert building Room 0.14"
+    note: "unusual location"

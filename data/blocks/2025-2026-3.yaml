@@ -1,0 +1,95 @@
+block: "Block III"
+year: "2025–2026"
+start: 2026-02-02
+end: 2026-04-17
+schedule: "Tuesdays from 13.30 to 14.30 CET"
+room: "HFG 7.07"
+talks:
+  - date: 2026-02-03
+    note: "no talk: Colloquium by Springer Chair"
+  - date: 2026-02-10
+    speaker: "Markus Reineke"
+    affiliation: "Ruhr University Bochum"
+    title: "Quiver moduli and their geometry"
+    abstract: >-
+      Quiver moduli spaces are algebraic varieties encoding the continuous parameters of
+      linear algebra type classification problems. In recent years their topological and
+      geometric properties have been explored, and applications to, among others,
+      Donaldson-Thomas and Gromov-Witten theory have emerged. The first aim of the lectures is
+      to motivate the study of quiver moduli spaces from the point of view of representation
+      theory, to review their construction via Geometric Invariant Theory, and to discuss
+      several classes of examples. We will proceed by reviewing results on the topology and
+      geometry of these moduli spaces, in particular their cohomology.
+    note: "Third Springer lecture"
+  - date: 2026-02-17
+    speaker: "Carl Tipler"
+    affiliation: "Laboratoire de Mathématiques de Bretagne Atlantique"
+    title: "Stable toric sheaves"
+    abstract: >-
+      In the seventies, Hartshorne proposed several problems regarding the existence of low
+      rank vector bundles on projective spaces. In rank 2 and characteristic 0, those bundles
+      are notoriously difficult to produce, and Hartshorne conjectured that none should exist
+      from dimension seven. In this talk, I will explain some motivations for this conjecture,
+      and a new approach to the problem, by mean of toric sheaves.
+  - date: 2026-02-24
+    note: "Day 2 of workshop on the \"Geometry of quiver moduli\""
+    # REVIEW: irregular entry kept as note
+  - date: 2026-02-25
+    time: "11 am"
+    speaker: "Stefan Schröer"
+    affiliation: "Düsseldorf"
+  - date: 2026-03-03
+    note: "cancelled"
+  - date: 2026-03-10
+    speaker: "Yuki Mizuno"
+    affiliation: "Utrecht University"
+    title: "Bondal-Orlov’s reconstruction theorem in noncommutative projective geometry"
+    abstract: >-
+      The (derived) category of coherent sheaves on a scheme encodes rich information
+      about the underlying geometry. P. Gabriel showed that for noetherian schemes $X$ and
+      $Y$, if $\operatorname{Coh} X$ and $\operatorname{Coh} Y$ are equivalent as abelian
+      categories, then $X$ and $Y$ are isomorphic. Furthermore, A. Bondal and D. Orlov
+      proved that for smooth projective schemes $X$ and $Y$ with (anti-)ample canonical
+      bundles, if $\mathbf{D}^b(\operatorname{Coh} X)$ and
+      $\mathbf{D}^b(\operatorname{Coh} Y)$ are equivalent as triangulated categories, then
+      $X$ and $Y$ are isomorphic. On the other hand, J.-P. Serre showed that the category
+      of coherent sheaves on a projective scheme can be described as the quotient category
+      of finitely generated graded modules over the homogeneous coordinate ring by the
+      subcategory of torsion modules. Motivated by the results of Gabriel and Serre, the
+      quotient category of finitely generated graded modules over a (not necessarily
+      commutative) graded ring by the subcategory of torsion modules is called a
+      noncommutative projective scheme. In this talk, I will present an analogue of
+      Bondal–Orlov’s reconstruction theorem in the setting of noncommutative projective
+      geometry.
+  - date: 2026-03-17
+    speaker: "Dominique Mattei"
+    affiliation: "University of Hannover"
+    title: "Tate-Shafarevich group of polarized K3 surfaces"
+    abstract: >-
+      The Tate-Shafarevich group of an elliptic K3 surface $S$ with a section
+      parametrizes twists of $S$, that is, other elliptic K3 surfaces that are étale
+      locally isomorphic to $S$. By a result of Artin and Tate, this group is in fact
+      isomorphic to $\operatorname{Br}(S)$. I will present joint work with D. Huybrechts
+      in which we generalize this story in higher dimensions by defining and studying the
+      Tate-Shafarevich group of fibrations in Jacobians of curves of arbitrary genus on K3
+      surfaces, and its relation to the (special) Brauer group.
+  - date: 2026-03-24
+    speaker: "George Politopoulos"
+    affiliation: "Leiden University"
+    title: "Tautological Classes on the Moduli Space of Curves via Spin Structures"
+    abstract: >-
+      The tautological ring of the moduli space of curves is a subring of its Chow ring.
+      Understanding whether naturally defined classes lie in this subring has been a
+      fundamental problem in the study of the intersection theory of the moduli space of
+      curves. In this talk, we will define Chow classes arising from spin structures on
+      curves, that is, square roots of the canonical line bundle, compute them, and prove that
+      they are tautological. If time permits, we will also discuss applications to the
+      computation of integrals. This talk is based on joint work with Adrien Sauvaget and
+      David Holmes, and with Stijn Velstra and Andrei Bud.
+  - date: 2026-03-31
+    note: "No talk"
+  - date: 2026-04-07
+    note: "Short talks"
+    # REVIEW: irregular entry kept as note
+  - date: 2026-04-14
+    note: "No talk"

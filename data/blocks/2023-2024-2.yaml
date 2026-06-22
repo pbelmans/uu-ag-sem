@@ -1,0 +1,108 @@
+block: "Block II"
+year: "2023–2024"
+start: 2023-11-13
+end: 2024-02-02
+schedule: "Wednesdays at 13:45-14:45"
+room: "BBG 001"
+talks:
+  - date: 2023-11-15
+    speaker: "Felix Thimm"
+    affiliation: "University of Oslo"
+    title: "Nekrasov's formula for some orbifolds"
+    abstract: >-
+      Nekrasov's formula computes equivariant $K$-theoretic DT invariants for Hilbert
+      schemes of points of toric CY3-folds. We extend this to certain global quotient
+      CY3 orbifolds, refining a result of Young to equivariant $K$-theoretic DT theory
+      and proving a conjecture by Cirafici. Okounkov's proof of Nekrasov's formula
+      combines two techniques. First, the virtual structure sheaves satisfy a certain
+      factorization property, which allows us to simplify the general form of the DT
+      generating series. Secondly, the rigidity principle allows us to determine the
+      remaining unknowns by computing a limit in the equivariant parameters. We will
+      explain these techniques in the case of schemes and describe some of the
+      modifications to make them work for orbifolds.
+    note: "This week also: Intercity Number Theory Seminar in Leiden"
+  - date: 2023-11-22
+    speaker: "Yannik Schuler"
+    affiliation: "Sheffield"
+    title: "Equivariant Strings and Gromov-Witten theory"
+    abstract: >-
+      In the past three decades some of the most exciting developments in enumerative geometry
+      were inspired by analogies in mathematical physics. After giving you a crash course on
+      how an algebraic geometer should think about (A-model topological) string theory, I will
+      make a proposal for a mathematically rigorous formulation of the so called refined
+      topological string in the framework of equivariant Gromov-Witten theory on Calabi-Yau
+      fivefolds. Moreover, I will present a surprising correspondence between the so called
+      Nekrasov-Shatashvili limit for a local surface $K_S$ and the enumeration of
+      tangents to a smooth anti-canonical curve in $S$ (assuming the latter exist).
+      This is ongoing work with Andrea Brini.
+    note: "This week also: DIAMANT Symposium"
+  - date: 2023-11-29
+    speaker: "Tudor Padurariu"
+    affiliation: "Max Planck Bonn"
+    title: "Quasi-BPS categories for K3 surfaces"
+    abstract: >-
+      Hyperkahler varieties are higher dimensional analogues of K3 surfaces. Moduli spaces of
+      semistable sheaves on a K3 surface for a primitive Mukai vector are examples of
+      hyperkahler varieties. Other hyperkahler varieties are obtained as crepant resolutions
+      of such moduli spaces when the Mukai vector is not primitive. However, it is known that
+      there is only one new example produced in this way, constructed by O’Grady. In joint
+      work with Yukinobu Toda, we construct dg categories which are analogues of crepant
+      resolutions of singularities for the moduli space of semistable sheaves on a K3 surface
+      for a generic stability condition and a general Mukai vector. The construction is
+      inspired by the study of BPS invariants in enumerative geometry of Calabi-Yau
+      threefolds.
+  - date: 2023-12-06
+    note: "no talk; MI heidag"
+  - date: 2023-12-13
+    room: "BBG 017"
+    note: "This week: Intercity Number Theory Seminar in Amsterdam"
+  - date: 2023-12-20
+  - date: 2023-12-27
+    note: "no talk"
+  - date: 2024-01-03
+    note: "no talk"
+  - date: 2024-01-10
+    speaker: "Noah Arbesfeld"
+    affiliation: "Vienna"
+    title: "Computing vertical Vafa-Witten invariants"
+    abstract: >-
+      I'll present a computation in the algebraic approach to Vafa-Witten invariants of
+      projective surfaces, as introduced by Tanaka-Thomas. The invariants are defined using
+      moduli spaces of stable Higgs pairs on surfaces and are formed from contributions of
+      components. The physical notion of $S$-duality translates to conjectural symmetries
+      between these contributions. One component, the "vertical" component, is a nested
+      Hilbert scheme on a surface. I'll explain work in preparation with M. Kool and T.
+      Laarakker in which we express invariants of this component in terms of a quiver
+      variety, the instanton moduli space of torsion-free framed sheaves on
+      $\mathbb{P}^2$. As a consequence, we deduce constraints on Vafa-Witten invariants,
+      including a formula for the contribution of the vertical component to refined
+      invariants in rank 2.
+  - date: 2024-01-17
+    speaker: "Leo Herr"
+    affiliation: "Leiden"
+    title: "Concerning Weil restrictions"
+    abstract: >-
+      We begin with a zoo of examples of Weil restrictions. The main three are: 1) number
+      theoretic, 2) jet spaces, and 3) the Kontsevich space of (pre)stable maps. We discuss
+      each in their own right, leading to an elementary main theorem which applies to all of
+      them. Open questions and doable exercises are emphasized throughout, and input
+      encouraged.
+  - date: 2024-01-24
+    speaker: "Ariyan Javanpeykar"
+    affiliation: "Nijmegen"
+    title: "Non-density of rational points on algebraic varieties over number fields"
+    abstract: >-
+      Which varieties over a number field should have a potentially dense set of rational
+      points? A naive guess based on Lang's conjectures was made in the early nineties: a
+      smooth projective variety over a number field which does not dominate a
+      positive-dimensional variety of general type after any etale covering should have a
+      dense set of rational points over some large enough number field. This conjecture is
+      probably false (and the "correct" conjecture was later formulated by Campana). In joint
+      work with Finn Bartsch and Erwan Rousseau we disprove the natural analogue of the
+      aforementioned naive conjecture for transcendental-rational points (a notion I will
+      explain in this talk). In our proof, we develop the theory of moduli spaces of orbifold
+      maps, establish an analogue of Kobayashi-Ochiai's finiteness theorem for dominant maps
+      in Campana's orbifold setting, employ Mori's bend-and-break and ultimately rely on
+      Faltings's finiteness theorem (formerly Mordell's conjecture).
+  - date: 2024-01-31
+    room: "BBG 017"

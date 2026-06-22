@@ -1,0 +1,129 @@
+block: "Block II"
+year: "2024–2025"
+start: 2024-11-11
+end: 2025-01-31
+schedule: "Tuesdays from 1.30 pm to 2.30 pm CET"
+room: "BBG 061"
+talks:
+  - date: 2024-11-12
+    speaker: "Enhao Feng"
+    affiliation: "Boston College"
+    title: "Moduli space of genus one curves on smooth cubic threefolds"
+    abstract: >-
+      Let $X$ be a smooth Fano variety over the complex numbers, a natural object to
+      investigate is the Kontsevitch moduli space of genus $g$ stable maps on $X$. In this
+      talk, I will illustrate a strategy to study the components of this moduli space through
+      the lens of Geometric Manin's Conjecture, and present a result on genus 1 stable maps
+      when $X$ is a smooth cubic threefold.
+  - date: 2024-11-26
+    speaker: "Tom Manopulo"
+    affiliation: "Utrecht University"
+    title: "Geometric Class Field Theory and Fargues Fontaine Curve"
+    abstract: >-
+      We give an outline of Fargues' proof of local class field theory using a study of line
+      bundles on the curve and its Abel-Jacobi morphism on degree-one divisors, introducing
+      the audience to $p$-adic geometry and the étale cohomology of diamonds in the process.
+      The essence of the proof is a descent theorem for line bundles in this set-up; we study
+      a generalization of this descent result for the functor $\operatorname{Bun}_1$ of line
+      bundles on the absolute Fargues-Fontaine curve.
+  - date: 2024-12-03
+    speaker: "Ariyan Javanpeykar"
+    affiliation: "Radboud University Nijmegen"
+    title: "The weakly special conjecture contradicts orbifold Mordell, and thus abc"
+    abstract: >-
+      Lang conjectured that varieties of general type over a number field do not have a dense
+      set of rational points. In 2000, guided by Lang's conjecture and in search of a converse
+      statement, Abramovich, Colliot-Thelene, Harris, and Tschinkel formulated the "Weakly
+      Special Conjecture": every weakly special variety over a number field has a potentially
+      dense set of rational points. In this talk I will explain how this conjecture
+      contradicts the abc conjecture, and more precisely Campana's "Orbifold Mordell"
+      conjecture. Indeed, starting from an Enriques surface over $\mathbb{Q}(t)$ constructed
+      by Lafon, we give the first examples of smooth projective weakly special threefolds
+      which fiber over the projective line in Enriques surfaces with nowhere reduced, but
+      non-divisible, fibers. I will explain that the existence of these threefolds shows
+      that the Weakly Special Conjecture contradicts the abc conjecture. The existence of
+      such threefolds also shows that Enriques surfaces and K3 surfaces can have
+      non-divisible but nowhere reduced
+      degenerations, thereby answering a question raised by Campana in 2005. This is joint
+      work with Finn Bartsch, Frederic Campana, and Olivier Wittenberg.
+    room: "Daltonlaan 500 Room 1.19"
+  - date: 2024-12-10
+    speaker: "Andreas Hochenegger"
+    affiliation: "Politecnico di Milano"
+    title: "Cox rings and Mori dream spaces"
+    abstract: >-
+      In this talk I will start with the problem to lift maps between Mori dream spaces to
+      homomorphisms between their respective Cox rings. By doing this, quotient stacks appear
+      in a quite natural manner. At that point, one may ask how Cox rings are constructed for
+      stacks; as for varieties the crucial point is to define the multiplication. This will be
+      the second part of the talk. This is joint work with Elena Martinengo and Fabio Tonini.
+  - date: 2024-12-17
+    speaker: "Dhruva Kelkar"
+    affiliation: "University of Amsterdam"
+    title: "Geometry of Newton strata via automophic forms"
+    abstract: >-
+      In char $p > 0$, Newton strata arise as decomposition of the moduli space of principally
+      polarised abelian varieties where the Newton polygon associated to the abelian variety
+      is constant. More generally, the Newton stratification can be defined on the special
+      fibre of Shimura varieties. In this talk, I will outline an approach to study the
+      geometry of the Newton strata via automorphic forms. This approach involves a comparison
+      of two trace formulas: (1) Leftschetz-Verdier trace formula which relates the actions of
+      Frobenius and Hecke operators on the cohomology of a Newton stratum to fixed points of
+      these operators and (2) Arthur-Selberg trace formula which links automorphic
+      representations of a group to orbital integrals. Kret carried out this approach to
+      describe the zeta function of the basic stratum of Kottwitz varieties at split primes of
+      good reduction in terms of automorphic forms. Kottwitz varieties are a very restrictive
+      class of Shimura varieties since they have no endoscopic contributions to their
+      cohomology. Endoscopic contributions are the source of several complications which arise
+      in establishing the above mentioned comparison of trace formulas for Newton strata of
+      more general classes of Shimura varieties. I will discuss my progress towards
+      understanding the endoscopic contributions and establishing the comparison of trace
+      formulas for Newton strata of abelian type Shimura varieties at places of good
+      reduction.
+  - date: 2025-01-14
+    speaker: "Pieter Belmans"
+    affiliation: "Utrecht University"
+    title: "Noncommutative plane curves through the looking glass"
+    abstract: >-
+      Noncommutative plane curves are plane curves on noncommutative projective planes,
+      defined by a homogeneous central element in a 3-dimensional Artin--Schelter regular
+      algebra. I will introduce this approach to noncommutative algebraic geometry, and
+      explain how noncommutative plane curves have been studied and classified in degree 2,
+      and some examples have been considered in degree 3, but a general theory did not exist
+      previously. Introducing the notion of central curves for orders on surfaces and using
+      the fact that the noncommutative projective planes in question are finite over their
+      centers, we can translate the algebraic questions into geometric problems and solve them
+      using geometric methods. This also gives further insight into the dictionary between
+      noncommutative algebra and algebraic stacks. This is joint work with Thilo Baumann and
+      Okke van Garderen.
+  - date: 2025-01-21
+    time: "1.15-2.15 pm"
+    speaker: "Martin Ulirsch"
+    affiliation: "Goethe University Frankfurt am Main"
+    title: "How to tropicalize algebraic groups (and why we should care) - Log edition"
+    abstract: >-
+      Tropical geometry studies a piecewise linear combinatorial shadow of classical algebraic
+      geometry. In many ways, tropical geometry describes the extra information that is added
+      to classical scheme theory in logarithmic geometry in order to study moduli-theoretic
+      problems from a unified perspective. In this talk I will explain what little we
+      currently know about the tropical geometry of algebraic groups. Along the way I will
+      outline how different avenues of progress towards an answer to this question have
+      already led to numerous advantages within and beyond tropical and logarithmic geometry.
+      This talk will touch upon joint work with Luca Battistella, Desmond Coles, Andreas
+      Gross, Inder Kaur, Kevin Kühn, Arne Kuhrs, Margarido Melo, Sam Molcho, Annette Werner,
+      Alejandro Vargas, Filippo Viviani, and Dmitry Zakharov.
+    room: "BBG 065"
+  - date: 2025-01-28
+    speaker: "Martin Lüdtke"
+    affiliation: "University of Groningen"
+    title: 'Refined Chabauty--Kim for the thrice-punctured line over $\mathbb{Z}[1/6]$'
+    abstract: >-
+      If $X$ is a curve of genus at least 2 defined over the rational numbers, we know by
+      Faltings's Theorem that the set $X(\mathbb{Q})$ of rational points is finite but we
+      don't know how to systematically compute this set. In 2005, Minhyong Kim proposed a new
+      framework for studying rational (or $S$-integral) points on curves, called the
+      Chabauty-Kim method. It aims to produce $p$-adic analytic functions on
+      $X(\mathbb{Q}_p)$ containing the rational points $X(\mathbb{Q})$ in their zero locus.
+      We apply this method to solve the $S$-unit equation for $S=\{2,3\}$ and computationally
+      verify Kim's Conjecture for many choices of the auxiliary prime $p$.
+    room: "HFG 611"

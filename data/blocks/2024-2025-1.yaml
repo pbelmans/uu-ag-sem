@@ -1,0 +1,143 @@
+block: "Block I"
+year: "2024–2025"
+start: 2024-09-02
+end: 2024-11-08
+schedule: "Wednesdays from 3 pm to 4 pm CET"
+room: "HFG 7.07"
+talks:
+  - date: 2024-09-04
+    speaker: "Olivier de Gaay Fortman"
+    affiliation: "Utrecht University"
+    title: "Powers of an abelian variety isogenous to a Jacobian and the Coleman--Oort conjecture"
+    abstract: >-
+      I will prove that, for a very general principally polarized complex abelian variety of
+      dimension at least four, no power is isogenous to a Jacobian. This confirms cases of
+      the Coleman--Oort conjecture on special subvarieties in $A_g$. This is joint work with
+      Stefan Schreieder.
+    room: "BBG 017"
+  - date: 2024-09-11
+    speaker: "Emilinano Ambrosi"
+    affiliation: "IMRA, Strasbourg"
+    title: "Reduction modulo $p$ of the Noether problem"
+    abstract: >-
+      Let $k$ be an algebraically closed field of characteristic $p \geq 0$ and $V$ a
+      faithful $k$-rational representation of an $\ell$-group $G$. The Noether's problem
+      asks whether $V/G$ is (stably) birational to a point. If $\ell$ is equal to $p$, then
+      Kuniyoshi proved that this is true, while, if $\ell$ is different from $p$, Saltman
+      constructed $\ell$-groups for which $V/G$ is not stably rational. Hence, the geometry
+      of $V/G$ depends heavily on the characteristic of the field. We show that for all the
+      groups $G$ constructed by Saltman, one cannot interpolate between the Noether problem
+      in characteristic 0 and $p$. More precisely, we show that it does not exist a complete
+      valuation ring $R$ of mixed characteristic $(0,p)$ and a smooth proper $R$-scheme
+      $X \to \operatorname{Spec}(R)$ whose special fiber and generic fiber are both stably
+      birational to $V/G$. The proof combines the integral $p$-adic Hodge theoretic results
+      of Bhatt-Morrow-Scholze, with the study of the Cartier operator on differential forms
+      in positive characteristic. This is a joint work with Domenico Valloni.
+    room: "BBG 385"
+  - date: 2024-09-18
+    speaker: "Remy van Dobben de Bruyn"
+    affiliation: "Utrecht University"
+    title: "Constructible sheaves on toric varieties"
+    abstract: >-
+      Given a reasonable topological space or algebraic variety, its covering spaces are
+      classified by the fundamental group, via the monodromy correspondence. I will review
+      some of the different ways to construct this correspondence, also for the étale
+      fundamental group. I will then show how to extend each of these methods to a
+      classification of constructible sheaves using the stratified fundamental category (or
+      exit path category), leading to an exodromy correspondence. As a concrete example, this
+      gives a computation of the constructible sheaves on a toric variety (with respect to
+      the toric stratification) over an arbitrary field $k$, generalising a result of Braden
+      and Lunts over $\mathbb{C}$.
+  - date: 2024-09-25
+    speaker: "Jonathan Love"
+    affiliation: "Leiden University"
+    title: "Rational equivalences from hyperelliptic curves"
+    abstract: >-
+      The Chow group of zero-cycles of a variety $X$ points can roughly be described as
+      follows: the generators are closed points of $X$, and the relations, also known as
+      rational equivalences, are divisors of rational functions on curves in $X$. In general,
+      it can be very difficult to tell whether a given zero-cycle is trivial in the Chow
+      group, and the structure of the Chow group as a whole is very mysterious. Deep
+      conjectures due to Bloch and Beilinson give some indication of what the structure
+      should be and which zero-cycles should vanish, but very little has been proven in this
+      direction. In this talk we will focus on certain abelian surfaces $A$, and discuss a
+      collection of methods that can take one of the zero-cycles that is predicted to vanish
+      in Chow and verify that it is indeed a rational equivalence. The key idea behind these
+      methods is a relation between hyperelliptic curves in $A$ and rational curves in the
+      Kummer surface of $A$. This is joint work with Evangelia Gazaki.
+  - date: 2024-10-09
+    speaker: "Thorsten Schimannek"
+    affiliation: "Utrecht University"
+    title: "Nodal Calabi-Yau 3-folds and torsion refined GV-invariants"
+    abstract: >-
+      In general, a projective Calabi-Yau threefold with nodal singularities does not admit
+      any Kaehler small resolution. This happens in particular if the exceptional curves are
+      torsion in the homology of some small resolution. I will first introduce a class of
+      examples, constructed as double covers of $\mathbb{P}^3$ with symmetric determinantal
+      ramification locus. The proof that the exceptional curves are torsion is based on a
+      so-called conifold transition to another smooth CY 3-fold. From a physical perspective,
+      this can be interpreted as a Higgs transition that leads to a discrete gauge symmetry
+      in M-theory
+      on the singular CY. The M-theory interpretation then motivates a proposal for torsion
+      refined Gopakumar-Vafa invariants that are associated to the singular CY 3-fold and, in
+      a certain sense, capture the enumerative geometry of non-Kaehler small resolutions.
+      Finally, I will discuss the relation to topological strings on "Calabi-Yau gerbes" and
+      how one can calculate these invariants using mirror symmetry.
+  - date: 2024-10-09
+    speaker: "Gavril Farkas"
+    affiliation: "Humboldt University"
+    title: "The equations of an algebraic curve"
+    abstract: >-
+      Determining the structure of the equations of an algebraic curve in its canonical
+      embedding (given by its holomorphic forms) has been a central question in algebraic
+      geometry from the beginnings of the subject. In 1984 Mark Green put forward a very
+      elegant conjecture (generalizing classical work of M. Noether and Enriques), linking the
+      complexity of the curve in its moduli space (that is, its gonality) to the structure of
+      its equations in the canonical embedding. I will discuss how novel ideas coming from
+      topology led to a surprising solution of this conjecture for generic curves in arbitrary
+      characteristic.
+    note: "Springer Visiting Professor"
+  - date: 2024-10-16
+    speaker: "Calla Tschanz"
+    affiliation: "Ruhr Universität Bochum"
+    title: "Expansions for simple normal crossing degenerations of Hilbert schemes of points"
+    abstract: >-
+      Let $X \to C$ be a semi stable family of surfaces over a curve with special fibre
+      $X_0$. In the case where $X_0$ is simple normal crossing and its singular locus is
+      singular, we construct modular simple normal crossing degenerations of Hilbert schemes
+      of points over $X \to C$. We use the method of expanded degenerations, generalizing
+      some of the work of Li and Wu and provide explicit examples of the logarithmic Hilbert
+      schemes of Maulik and Ranganathan.
+  - date: 2024-10-23
+    speaker: "Weisheng Wang"
+    affiliation: "Utrecht University"
+    title: "Euler characteristics of moduli of twisted sheaves on Enriques surfaces"
+    abstract: >-
+      Let $Y$ be an Enriques surface and let $A$ be an Azumaya algebra corresponding to the
+      non-trivial Brauer class. Let $M$ be the moduli space of stable twisted sheaves on
+      Enriques surfaces with fixed twisted Chern character. The virtual dimension of $M$ is
+      $N$. We show that the virtual Euler characteristic of $M$ only depends on $N$, more
+      precisely, it is 0 when $N$ is odd and it equals to the Euler characteristic of Hilbert
+      scheme of $N/2$ points when $N$ is even.
+  - date: 2024-10-30
+    speaker: "Emma Brakkee"
+    affiliation: "Leiden University"
+    title: "Kodaira dimension of moduli spaces of hyperkähler varieties"
+    abstract: >-
+      In a celebrated series of articles from 2007-2011, Gritsenko, Hulek and Sankaran studied
+      the birational geometry of moduli spaces of K3 surfaces and some higher-dimensional
+      hyperkähler varieties. In particular, they showed that the Kodaira dimension of these
+      moduli spaces is often maximal, by reducing the question to the existence of a certain
+      cusp form for an orthogonal modular variety. In this talk, I will sketch the reduction
+      argument and present new results on the Kodaira dimension of many more hyperkähler
+      moduli spaces. This is joint work with I. Barros, P. Beri and L. Flapan.
+  - date: 2024-11-06
+    speaker: "Przemysław Grabowski"
+    affiliation: "University of Amsterdam"
+    title: "Power Tower Theory: Foliations and Galois Theory in Positive Characteristic Algebraic Geometry"
+    abstract: >-
+      A power tower is an object analogous to a foliation, but in positive characteristic.
+      They generalise fibrations. They include purely inseparable morphisms. We develop a
+      Galois-type correspondence for power towers. This gives a useful framework for working
+      with purely inseparable morphisms. In particular, we prove a formula for a pullback of a
+      canonical divisor with respect to any such morphism.

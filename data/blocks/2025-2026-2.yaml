@@ -1,0 +1,107 @@
+block: "Block II"
+year: "2025–2026"
+start: 2025-11-10
+end: 2026-01-30
+schedule: "Tuesdays from 13.30 to 14.30 CET"
+room: "HFG 7.07"
+talks:
+  - date: 2025-11-11
+    speaker: "Thu-Hà Triệu"
+    affiliation: "Hanoi University of Science and Technology"
+    title: "The Mahler measure of exact polynomials and special values of $L$-function of motives"
+    abstract: >-
+      The Mahler measure of polynomials was introduced by Mahler in 1962 as a tool to
+      study transcendental number theory. Over time, numerous connections have been
+      discovered between Mahler measure and special values of $L$-functions. In this talk,
+      we express the Mahler measure of an exact polynomial in arbitrarily many variables
+      in terms of Deligne–Beilinson cohomology, and study its relationship with Beilinson
+      regulators, and then with special values of $L$-function of motives. As an
+      application, we show that under some conditions, the Mahler measure of
+      three-variable polynomials can be expressed in terms of special values of the
+      elliptic curve $L$-function and the Bloch–Wigner dilogarithm. In the four-variable
+      case, the Mahler measure of certain polynomials can be written as a
+      $\mathbb{Q}$-linear combination of special values of the $L$-function of K3
+      surfaces and the Riemann zeta function.
+  - date: 2025-11-18
+    speaker: "Patrick Kennedy-Hunt"
+    affiliation: "University of Cambridge"
+    title: "Logarithmic generalised Kummer varieties"
+    abstract: >-
+      Generalised Kummer varieties, are one of the main examples of hyperkähler varieties. The
+      moduli space of generalised Kummer varieties is far from compact, and finding modular
+      compactifications is an old question. This talk explains how logarithmic and tropical
+      geometry can be used to construct a modular compactification of the generalised Kummer
+      locus inside the moduli space of hyperkähler varieties.
+  - date: 2025-11-25
+    speaker: "Anna Viergever"
+    affiliation: "Leibniz University Hannover"
+    title: "Quadratic Donaldson-Thomas invariants: computations and a conjecture"
+    abstract: >-
+      (Zero-dimensional) Donaldson-Thomas-invariants "count" ideal sheaves of a given length
+      which have zero-dimensional support on a smooth projective complex threefold. In case
+      the threefold is toric, Maulik, Nekrasov, Okounkov and Pandharipande have proven a
+      formula for the generating series of these Donaldson-Thomas invariants in terms of the
+      MacMahon function. We discuss a conjectural quadratically enriched analogue of this
+      result for smooth projective real threefolds satisfying an orientation condition, using
+      a quadratic version of Donaldson-Thomas invariants taking values in Witt rings, which
+      are constructed using work of Levine. We provide evidence for the conjecture coming
+      from computations for $\mathbb{P}^3$ and $(\mathbb{P}^1)^3$. This talk is based on
+      my thesis and on joint work with Marc Levine.
+  - date: 2025-12-02
+    speaker: "Valentijn Karemaker"
+    affiliation: "University of Amsterdam"
+    title: "When is a polarised abelian variety determined by its $p$-divisible group?"
+    abstract: >-
+      We will study the moduli space of abelian varieties in characteristic $p$ and in
+      particular its supersingular locus. We first determine precisely when this locus is
+      geometrically irreducible. Since it was known that the number of components is a class
+      number, this comes down to solving a “class number one problem” or “Gauss problem”.
+      Next, we will show when a polarised abelian variety is determined by its
+      $p$-divisible group. This can be viewed as a Gauss problem for central leaves, which
+      are the loci consisting of points whose associated $p$-divisible groups are
+      isomorphic. Our solution
+      involves mass formulae, computations of automorphism groups, and a careful analysis of
+      Ekedahl-Oort strata in genus 4. This is based on joint work with Ibukiyama and Yu.
+  - date: 2025-12-09
+    speaker: "Theodosis Alexandrou"
+    affiliation: "Humboldt University Berlin"
+    title: "Some torsion and divisibility phenomena in higher Chow groups"
+    abstract: >-
+      We study the injectivity property of certain actions of higher Chow groups on
+      refined unramified cohomology. As an application for every $p \geq 1$ and for each
+      $d \geq p+4$ and $n \geq 2$, we establish the first examples of smooth complex
+      projective $d$-folds $X$ such that for all $p+3 \leq c \leq d-1$, the higher Chow
+      group $\operatorname{CH}^{c}(X,p)$ contains infinitely many torsion cycles of order
+      $n$ that remain linearly independent modulo $n$. Our bounds for $c$ and $d$ are
+      optimal. A crucial tool for the proof is Lawson homology.
+  - date: 2025-12-16
+    speaker: "Yun Shi"
+    affiliation: "Trinity College, Max Planck"
+    title: "Stability of line bundles and vector bundles on some surfaces"
+    abstract: >-
+      Donaldson and Uhlenbeck-Yau established the classical result that on a compact Kahler
+      manifold, an irreducible holomorphic vector bundle admits a Hermitian metric solving the
+      Hermitian-Yang-Mills equation if and only if the vector bundle is Mumford-Takemoto
+      stable. A modern analog of this question was posted by Collins-Yau. In this talk, we
+      will discuss partial answers to this modern analog for a set of line bundles and
+      tangent/cotangent bundles on some surfaces. This is based on joint work/work in progress
+      with Tristan Collins, Jason Lo, and Shing-Tung Yau.
+  - date: 2026-01-06
+    note: "No talk: Happy holidays!"
+  - date: 2026-01-13
+    note: "no talk"
+  - date: 2026-01-20
+    note: "no talk"
+  - date: 2026-01-27
+    speaker: "Martin Bright"
+    affiliation: "Leiden University"
+    title: "Wild Brauer groups and rational points"
+    abstract: >-
+      The behaviour of rational points on a variety is strongly influenced by its geometry.
+      For example, one can ask questions about so-called “local-global” principles, and the
+      answers to these questions depend on the geometry of the variety. One way in which this
+      link manifests itself is through the Brauer group. With Rachel Newton we studied the
+      “wild” part of the Brauer group and proved the surprising fact that every variety over a
+      number field admitting a non-zero global 2-form and having a prime of good ordinary
+      reduction fails weak approximation, possibly after a finite extension of the base field.
+      I will describe this result and more recent developments by Ambrosi, Newton and Pagano.
