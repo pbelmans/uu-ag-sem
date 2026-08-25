@@ -8,9 +8,10 @@ talks:
   - date: 2026-09-10
     speaker: "Ben Young"
     affiliation: "University of Oregon"
-  - date: 2026-09-17
+  - date: 2026-09-14
     speaker: "Ruxandra Moraru"
     affiliation: "University of Waterloo"
+    note: "extra talk, unusual day"
   - date: 2026-09-24
     speaker: "Felix Thimm"
     affiliation: "University of British Columbia"
