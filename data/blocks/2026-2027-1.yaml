@@ -8,6 +8,12 @@ talks:
   - date: 2026-09-10
     speaker: "Ben Young"
     affiliation: "University of Oregon"
+    title: "The equivariant vertex measure is not a probability measure"
+    abstract: >-
+      This is a combinatorial talk about certain measures on 2D and 3D partitions - the equivariant vertex and edge measures in Donaldson-Thomas theory (I will only talk about the combinatorics, not the geometry).
+      For the edge measure, we sketch a purely combinatorial proof that the measure is the Jack-Plancherel measure on integer partitions (a well-studied probability measure).
+      For the vertex measure, we will see that only in the Calabi-Yau specialization is the measure positive.
+      This is joint work with Kyla Pohl.
   - date: 2026-09-17
     speaker: "Ruxandra Moraru"
     affiliation: "University of Waterloo"
