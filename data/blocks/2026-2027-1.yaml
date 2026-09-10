@@ -17,6 +17,14 @@ talks:
   - date: 2026-09-17
     speaker: "Ruxandra Moraru"
     affiliation: "University of Waterloo"
+    title: "Moduli spaces of sheaves on primary Kodaira surfaces"
+    abstract: >-
+      Primary Kodaira surfaces are compact complex surfaces with Kodaira dimension zero, odd first Betti number, and trivial canonical bundle.
+      Consequently, they admit holomorphic symplectic structures, i.e., closed non-degenerate holomorphic 2-forms.
+      Together with K3 surfaces and complex two-dimensional tori, they are the only compact complex surfaces carrying such structures.
+      By Mukai's construction, holomorphic symplectic forms on these surfaces induce holomorphic symplectic structures on moduli spaces of sheaves.
+      For suitable topological invariants, these moduli spaces become higher-dimensional compact holomorphic symplectic manifolds.
+      In this talk, I will discuss the geometry of moduli spaces of sheaves on primary Kodaira surfaces and present examples of compact moduli spaces that yield new higher-dimensional compact holomorphic symplectic manifolds.
   - date: 2026-09-24
     speaker: "Felix Thimm"
     affiliation: "University of British Columbia"
