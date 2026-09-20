@@ -39,6 +39,12 @@ talks:
   - date: 2026-10-01
     speaker: "Hyeonjun Park"
     affiliation: "KIAS"
+    title: "Shifted Lagrangian classes"
+    abstract: >-
+      Modern enumerative invariants, such as Gromov-Witten invariants and Donaldson-Thomas invariants, are defined through the virtual classes.
+      In this talk, I will introduce Lagrangian classes, whose existence was conjectured by Joyce, as a generalization of the virtual classes via shifted symplectic geometry.
+      As applications, I will explain the construction of (1) cohomological Hall algebras for 3-Calabi-Yau categories; (2) cohomological field theories for gauged linear sigma models; (3) relative Donaldson-Thomas theory for 4-dimensional log Calabi-Yau pairs; (4) algebraic Fukaya categories for hyperkahler varieties.
+      This is joint work in progress with Adeel Khan, Tasuki Kinjo, and Pavel Safronov.
   - date: 2026-10-22
     speaker: "Vanja Zuliani"
     affiliation: "Utrecht University"
