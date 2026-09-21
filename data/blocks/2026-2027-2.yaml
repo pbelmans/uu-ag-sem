@@ -4,4 +4,7 @@ start: 2026-11-16
 end: 2027-02-05
 schedule: "Thursdays from 14.00 to 15.00 CET"
 room: "HFG 7.07"
-talks: []
+talks:
+  - date: 2027-01-28
+    speaker: "Francesco Denisi"
+    affiliation: "Universität des Saarlandes"
