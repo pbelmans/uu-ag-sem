@@ -62,6 +62,13 @@ talks:
   - date: 2026-11-05
     speaker: "Marton Hablicsek"
     affiliation: "Leiden University"
+    title: "Functoriality of log Hochschild homology for log smooth pairs"
+    abstract: >-
+      A central question in non-commutative geometry is the existence/construction of a suitable derived category of log sheaves.
+      Such desired derived category would have log Hochschild homology as a categorical invariant.
+      In my talk, I will not get closer to answer this fundamental question.
+      However, I will provide a naive construction of a dg bicategory of log Fourier-Mukai kernels between log smooth pairs such that log Hochschild homology and cohomology are invariants of this framework.
+      The project is joint with Ádám Gyenge and Leo Herr.
   - date: 2026-11-12
     speaker: "Luca Dal Molin"
     affiliation: "University of Trento"
