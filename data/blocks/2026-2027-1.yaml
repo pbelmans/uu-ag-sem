@@ -72,3 +72,11 @@ talks:
   - date: 2026-11-12
     speaker: "Luca Dal Molin"
     affiliation: "University of Trento"
+    title: "Cohomology of the moduli stacks of real vector bundles"
+    abstract: >-
+      Vector bundles are the starting point for the study of principal bundles.
+      The problem of classifying them over Riemann surfaces traces back to the foundational work of Atiyah and Bott.
+      Our objective is to fill the theoretical gap that arises when considering real structures on both of the objects involved: the Riemann surface and the vector bundle.
+      Building upon the papers of Liu–Schaffhauser and Baird, we extend their results to the context of moduli stacks, restricting ourselves to the case where the real curve is of type I (also known as separating).
+      Ultimately, we obtain a description of the cohomology generators of these moduli stacks.
+      This research is part of my PhD thesis and is joint work with Frank Neumann.
