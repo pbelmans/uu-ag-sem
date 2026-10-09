@@ -53,6 +53,16 @@ talks:
       I will discuss Bridgeland stability of line bundles on smooth complex projective surfaces.
       After recalling the basic definitions and some background on stability conditions, I will explain how the stability of a line bundle can be controlled by the geometry of effective divisors on the surface.
       More precisely, I will describe a variant of the Arcara–Miles conjecture: for divisorial Bridgeland stability conditions, if a line bundle fails to be stable, then this failure is detected by a natural subobject associated with a non-zero effective divisor of negative self-intersection.
+    - date: 2026-10-15
+    speaker: "Luca Giovenzana"
+    affiliation: "University of Antwerp"
+    title: "Boomerangs, elliptic curves and del Pezzo surfaces"
+    abstract: >-
+      We introduce boomerangs in the derived category of an elliptic curve C, defined as filtrations of the zero object whose factors are polystable objects with increasing phase.
+      The numerical invariants of a boomerang are the Chern characters of the direct summands of its factors, which determine a seed, or equivalently a decorated lattice polygon.
+      When this polygon is of del Pezzo type, we show that the moduli space of boomerangs with prescribed polystable factors is the complement of the anti-canonical embedding of C inside a del Pezzo surface Z.
+      The proof relies on exceptional collections on Z.
+      This is joint work in progress with Pierrick Bousseau and Tom Bridgeland.
   - date: 2026-10-22
     speaker: "Vanja Zuliani"
     affiliation: "Utrecht University"
