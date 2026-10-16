@@ -66,6 +66,10 @@ talks:
   - date: 2026-10-22
     speaker: "Vanja Zuliani"
     affiliation: "Utrecht University"
+    title: "A Fano eightfold of K3 type"
+    abstract: >-
+      Since Beauville and Donagi proved that the Fano variety of lines in a cubic 4fold is hyperkähler (HK), many connections between Fano and HK geometries were found. Lehn-Lehn-Sorger-vanStraten constructed a HK 8fold with an involution whose fixed locus consists of two components, one of them is a cubic 4fold. Recently Flapan-Macrì-O’Grady-Saccà studied involutions on HK varieties of K3^[4n] type and proved that, under some numerical assumptions, the fixed locus has two connected components, and one of them is a Fano variety. This produces an infinite family of new Fano varieties F_n of dimension 4n and index 3, the case n=1 being the cubic 4fold. 
+      I will explain how to use Bridgeland stability conditions to compute the Hodge numbers of the 8fold F_2.
   - date: 2026-10-29
     speaker: "Zhelun Chen"
     affiliation: "Leiden University"
