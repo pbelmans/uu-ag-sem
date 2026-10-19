@@ -5,6 +5,9 @@ end: 2027-02-05
 schedule: "Thursdays from 14.00 to 15.00 CET"
 room: "HFG 7.07"
 talks:
+  - date: 2026-12-10
+    speaker: "Audrey Antoine"
+    affiliation: "Utrecht University"
   - date: 2027-01-28
     speaker: "Francesco Denisi"
     affiliation: "Universität des Saarlandes"
