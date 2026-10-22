@@ -73,6 +73,13 @@ talks:
   - date: 2026-10-29
     speaker: "Zhelun Chen"
     affiliation: "Leiden University"
+    title: "Degeneration of the archimedean height pairing"
+    abstract: >-
+      The (arithmetic) Beilinson-Bloch height pairing for algebraic cycles plays a central role in arithmetic geometry.
+      In this talk, I will consider the asymptotic behaviour of its archimedean component.
+      I will begin with a gentle introduction to height functions and the Néron-Tate height pairing, followed by a review of the Hodge-theoretic construction of the archimedean height pairing, due to Hain, in terms of Griffiths intermediate Jacobians and normal functions.
+      I will then discuss Kahn's cycle-theoretic construction of the height pairing over a complex function field, which we call the geometric (Beilinson-Bloch) height pairing.
+      Finally, I will formulate a conjecture that connects the said asymptotic behaviour with the geometric height pairing, and report on my result on this conjecture for algebraically trivial cycles, conditional on a conjecture of Griffiths concerning incidence equivalence.
   - date: 2026-11-05
     speaker: "Marton Hablicsek"
     affiliation: "Leiden University"
