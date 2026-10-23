@@ -36,7 +36,7 @@
 
 {{ with $upcoming }}
 <h2>Upcoming block(s)</h2>
-{{ range . }}{{ partial "block.html" (dict "block" .) }}{{ end }}
+{{ range . }}{{ partial "block.html" (dict "block" . "open" true) }}{{ end }}
 {{ end }}
 
 {{ with $past }}
