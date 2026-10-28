@@ -5,6 +5,9 @@ end: 2027-02-05
 schedule: "Thursdays from 14.00 to 15.00 CET"
 room: "HFG 7.07"
 talks:
+  - date: 2026-11-19
+    speaker: "Lothar Göttsche"
+    affiliation: "ICTP"
   - date: 2026-12-10
     speaker: "Audrey Antoine"
     affiliation: "Utrecht University"
