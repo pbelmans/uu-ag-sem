@@ -1,7 +1,9 @@
 block: "Block I"
+display_group: "Blocks I and II"
 year: "2026–2027"
 start: 2026-09-07
 end: 2026-11-13
+weekday: "Thursday"
 schedule: "Thursdays from 14.00 to 15.00 CE(S)T"
 room: "HFG 7.07"
 talks:
@@ -90,3 +92,5 @@ talks:
       In my talk, I will not get closer to answer this fundamental question.
       However, I will provide a naive construction of a dg bicategory of log Fourier-Mukai kernels between log smooth pairs such that log Hochschild homology and cohomology are invariants of this framework.
       The project is joint with Ádám Gyenge and Leo Herr.
+  - date: 2026-11-12
+    speaker: "to be determined"

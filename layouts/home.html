@@ -5,9 +5,25 @@
   {{ .Content }}
 </div>
 
-{{/* collect all blocks from data/blocks/ and sort newest first */}}
-{{ $blocks := slice }}
+{{/* group blocks for display while keeping their source data separate */}}
+{{ $groups := collections.NewScratch }}
 {{ range $key, $b := hugo.Data.blocks }}
+  {{ $groupKey := $key }}
+  {{ with $b.display_group }}
+    {{ $groupKey = printf "%s/%s" $b.year . }}
+  {{ end }}
+  {{ $members := $groups.Get $groupKey | default slice }}
+  {{ $groups.Set $groupKey ($members | append $b) }}
+{{ end }}
+
+{{ $blocks := slice }}
+{{ range $groups.Values }}
+  {{ $members := sort . "start" }}
+  {{ $b := index $members 0 }}
+  {{ if gt (len $members) 1 }}
+    {{ $last := index (sort $members "end" "desc") 0 }}
+    {{ $b = dict "block" $b.display_group "year" $b.year "start" $b.start "end" $last.end "schedule" $b.schedule "room" $b.room "blocks" $members }}
+  {{ end }}
   {{ $blocks = $blocks | append $b }}
 {{ end }}
 {{ $blocks = sort $blocks "start" "desc" }}

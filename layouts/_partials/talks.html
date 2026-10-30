@@ -1,6 +1,32 @@
-{{/* expects a block as context; $ is the block, so $.room is the block default room */}}
+{{/* expand each source block before combining its talks for display */}}
+{{ $sources := .blocks | default (slice .) }}
+{{ $talks := slice }}
+{{ range $sources }}
+  {{ $source := . }}
+  {{ $sourceTalks := .talks | default slice }}
+  {{ with .weekday }}
+    {{ $weekday := . }}
+    {{ $holidays := $source.holidays | default slice }}
+    {{ $dates := slice }}
+    {{ range $sourceTalks }}
+      {{ $dates = $dates | append ((time .date).Format "2006-01-02") }}
+    {{ end }}
+    {{ $start := time $source.start }}
+    {{ $end := (time $source.end).AddDate 0 0 1 }}
+    {{ range seq 0 (int (div ($end.Sub $start).Hours 24)) }}
+      {{ $date := $start.AddDate 0 0 . }}
+      {{ $dateKey := $date.Format "2006-01-02" }}
+      {{ if and ($date.Before $end) (eq $date.Weekday.String $weekday) (not (in $dates $dateKey)) (not (in $holidays $dateKey)) }}
+        {{ $sourceTalks = $sourceTalks | append (dict "date" $dateKey "note" "no seminar") }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ range $sourceTalks }}
+    {{ $talks = $talks | append (merge (dict "room" (or .room $source.room)) .) }}
+  {{ end }}
+{{ end }}
 <div class="talks">
-  {{ range sort .talks "date" "desc" }}
+  {{ range sort $talks "date" "desc" }}
     {{ if .speaker }}
       <details class="talk">
         <summary>
@@ -16,7 +42,7 @@
     {{ else }}
       <p class="talk no-talk">
         <span class="date">{{ (time .date).Format "January 2" }}{{ with .time }}, {{ . }}{{ end }}:</span>
-        {{ or .note "No talk" }}
+        <em>{{ or .note "No talk" }}</em>
       </p>
     {{ end }}
   {{ end }}

@@ -1,28 +1,34 @@
 block: "Block II"
+display_group: "Blocks I and II"
 year: "2026–2027"
 start: 2026-11-16
 end: 2027-02-05
+weekday: "Thursday"
+holidays:
+  - "2026-12-24"
+  - "2026-12-31"
 schedule: "Thursdays from 14.00 to 15.00 CET"
 room: "HFG 7.07"
 talks:
   - date: 2026-11-19
     speaker: "Lothar Göttsche"
     affiliation: "ICTP"
-  - date: 2026-11-26
-    speaker: "NO SEMINAR"
   - date: 2026-12-03
     speaker: "Raphael Douglas Giles"
+    affiliation: "Utrecht University"
   - date: 2026-12-10
     speaker: "Audrey Antoine"
     affiliation: "Utrecht University"
   - date: "2026-12-17"
-    speaker: "to be invited"
+    speaker: "to be determined"
+  - date: "2027-01-07"
+    speaker: "to be determined"
   - date: "2027-01-14"
-    speaker: "to be invited"
+    speaker: "to be determined"
   - date: "2027-01-21"
-    speaker: "to be invited"
+    speaker: "to be determined"
   - date: 2027-01-28
     speaker: "Francesco Denisi"
     affiliation: "Universität des Saarlandes"
   - date: "2027-02-04"
-    speaker: "to be invited"
+    speaker: "to be determined"

@@ -29,6 +29,24 @@ All fields except `date` are optional:
 - an entry with only `date:` and `note:` renders as a single line without
   expandable details.
 
+For a block with `weekday: "Thursday"`, every Thursday from `start` through
+`end` appears in the list, except dates listed in the block's `holidays`:
+
+```yaml
+holidays:
+  - "2026-12-24"
+  - "2026-12-31"
+```
+
+Omit any other date from `talks:` to display *no seminar*
+without expandable details or a location. For a planned seminar whose speaker
+is not yet known, add an explicit placeholder:
+
+```yaml
+  - date: 2026-11-12
+    speaker: "to be determined"
+```
+
 ## Adding a block
 
 Create `data/blocks/<year>-<block>.yaml` (the file name does not matter, only
@@ -43,6 +61,16 @@ schedule: "Tuesdays from 13.30 to 14.30 CET"
 room: "HFG 7.07"
 talks: []
 ```
+
+To display separate block files as one combined block, give them the same
+`display_group` and `year`:
+
+```yaml
+display_group: "Blocks I and II"
+```
+
+Hugo combines their talks into one list. Each source block keeps its own
+dates, holidays, and default room.
 
 ## Previewing locally
 
