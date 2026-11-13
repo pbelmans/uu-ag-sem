@@ -13,6 +13,20 @@ talks:
   - date: 2026-11-19
     speaker: "Lothar Göttsche"
     affiliation: "ICTP"
+    title: "Computations and symmetries of Vafa-Witten invariants"
+    abstract: >-
+      Vafa-Witten invariants are invariants of algebraic surfaces
+      defined using moduli of Higgs bundles.
+      Based on the physics paper of Vafa and Witten they were given a
+      mathematical definition by Tanaka and Thomas.
+      We will review these invariants and then explain some generalizations
+      (1) invariants with $\mu$-classes, which interpolate between the
+      Donaldson invariants and the Vafa-Witten invariants
+      (2) and Vafa-Witten invariants twisted by a line bundle.
+
+      The connection of these invariants conjecturally allows to compute them
+      in many cases in terms of modular functions and uncovers remarkable
+      symmetries.
   - date: 2026-12-03
     speaker: "Raphael Douglas Giles"
     affiliation: "Utrecht University"
